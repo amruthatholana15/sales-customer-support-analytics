@@ -1,0 +1,1001 @@
+ticket_id,customer_id,created_date,country,product_category,issue_type,priority,support_channel,agent_id,status,resolution_hours,sla_target_hours,customer_satisfaction
+1,23670,2025-01-16 21:55:53.387968,India,Monitor,Setup,Medium,WhatsApp,158,In Progress,55.54,4,4
+2,23394,2026-07-04 11:55:53.387968,Australia,Printer,Setup,Low,Chat,395,Closed,35.07,4,4
+3,45865,2025-08-06 02:55:53.387968,Singapore,Laptop,Setup,High,Chat,249,Open,43.70,8,1
+4,40491,2025-04-08 04:55:53.387968,Singapore,Printer,Hardware Issue,Low,Chat,469,Resolved,17.60,24,1
+5,3548,2026-04-04 04:55:53.387968,Philippines,Desktop,Performance,Low,Web,459,Open,23.37,24,4
+6,2915,2025-11-16 13:55:53.387968,Indonesia,Desktop,Software Issue,Low,WhatsApp,448,Open,75.92,48,5
+7,5333,2024-09-19 23:55:53.387968,Malaysia,Accessory,Hardware Issue,Critical,Chat,135,In Progress,93.07,24,5
+8,20452,2026-04-09 12:55:53.387968,India,Desktop,Billing,High,WhatsApp,445,In Progress,26.04,4,5
+9,32391,2024-11-08 02:55:53.387968,India,Accessory,Billing,Low,Email,323,In Progress,40.59,4,4
+10,36177,2025-06-06 17:55:53.387968,Malaysia,Printer,Hardware Issue,High,Phone,443,In Progress,62.30,8,2
+11,24363,2025-12-03 05:55:53.387968,India,Accessory,Connectivity,High,Web,216,Resolved,56.30,8,2
+12,16381,2025-08-04 05:55:53.387968,Singapore,Accessory,Setup,High,Chat,457,Closed,23.25,8,1
+13,8769,2026-09-11 19:55:53.387968,Indonesia,Printer,Billing,High,Chat,99,Resolved,13.96,48,3
+14,22907,2025-11-12 19:55:53.387968,Singapore,Printer,Software Issue,Medium,Chat,405,Open,35.83,24,1
+15,43543,2025-06-08 14:55:53.387968,India,Printer,Setup,High,WhatsApp,289,Resolved,25.44,24,5
+16,47662,2025-05-09 05:55:53.387968,Australia,Desktop,Billing,Medium,Email,45,Open,91.16,24,1
+17,11136,2025-06-18 03:55:53.387968,Indonesia,Printer,Billing,High,WhatsApp,264,Open,86.90,48,3
+18,26230,2024-10-11 11:55:53.387968,Philippines,Accessory,Software Issue,Critical,Web,148,Open,8.32,24,4
+19,5491,2026-01-02 23:55:53.387968,Indonesia,Accessory,Setup,Medium,WhatsApp,431,In Progress,59.41,8,5
+20,46411,2026-07-27 17:55:53.387968,Singapore,Printer,Billing,High,Web,15,Closed,83.50,8,2
+21,1287,2026-07-17 17:55:53.387968,India,Printer,Connectivity,High,Web,242,Open,22.00,48,2
+22,22167,2026-03-30 16:55:53.387968,India,Accessory,Performance,Medium,WhatsApp,44,Closed,30.88,4,2
+23,45882,2026-04-29 13:55:53.387968,Malaysia,Monitor,Billing,Critical,Web,207,In Progress,6.77,8,3
+24,30385,2026-09-04 02:55:53.387968,Singapore,Monitor,Hardware Issue,Medium,Chat,448,Closed,1.11,48,5
+25,34540,2025-04-14 07:55:53.387968,Australia,Printer,Software Issue,Critical,Web,20,Resolved,56.73,24,5
+26,19983,2025-03-19 00:55:53.387968,Indonesia,Monitor,Setup,Low,WhatsApp,490,Resolved,54.33,24,2
+27,32617,2025-09-06 23:55:53.387968,Indonesia,Accessory,Billing,Medium,Phone,279,Closed,40.17,48,5
+28,42762,2026-02-08 05:55:53.387968,Malaysia,Monitor,Software Issue,High,Email,187,Closed,67.23,4,5
+29,25934,2025-01-16 15:55:53.387968,India,Printer,Setup,Critical,Email,183,Closed,29.95,4,4
+30,25112,2025-05-27 00:55:53.387968,Philippines,Laptop,Setup,Low,Email,457,Closed,72.90,48,5
+31,39941,2025-11-10 17:55:53.387968,Philippines,Desktop,Setup,Medium,Phone,142,Closed,94.54,48,1
+32,38691,2024-11-04 05:55:53.387968,Philippines,Accessory,Billing,Low,Web,28,Resolved,88.92,8,5
+33,18856,2024-12-26 20:55:53.387968,Australia,Desktop,Hardware Issue,Critical,Email,77,In Progress,90.54,8,4
+34,21496,2026-07-02 22:55:53.387968,Singapore,Monitor,Setup,Low,Chat,275,In Progress,88.87,48,4
+35,4338,2025-09-04 01:55:53.387968,Singapore,Accessory,Billing,High,Chat,281,Resolved,51.63,48,4
+36,2748,2025-12-21 21:55:53.387968,Australia,Accessory,Connectivity,Critical,Chat,251,Resolved,75.83,4,2
+37,42729,2026-05-18 19:55:53.387968,Australia,Accessory,Performance,High,WhatsApp,20,Open,90.60,48,4
+38,12034,2026-07-21 06:55:53.387968,New Zealand,Accessory,Software Issue,Medium,Email,68,Open,29.47,4,5
+39,3615,2026-04-23 23:55:53.387968,Indonesia,Accessory,Billing,Low,Phone,384,Closed,11.02,4,1
+40,46867,2026-04-06 00:55:53.387968,India,Monitor,Performance,Low,Chat,137,Resolved,11.38,24,2
+41,8320,2025-10-06 00:55:53.387968,Indonesia,Monitor,Software Issue,Medium,WhatsApp,240,In Progress,72.66,8,5
+42,132,2026-06-04 16:55:53.387968,Singapore,Desktop,Hardware Issue,Medium,Phone,171,Open,66.74,48,3
+43,38921,2025-05-23 17:55:53.387968,Australia,Printer,Hardware Issue,Medium,Email,327,In Progress,28.65,24,1
+44,20497,2026-05-17 19:55:53.387968,Philippines,Laptop,Billing,Medium,Phone,157,Resolved,45.32,48,3
+45,24846,2025-10-14 20:55:53.387968,Australia,Printer,Hardware Issue,High,WhatsApp,458,In Progress,63.04,48,1
+46,1533,2026-03-24 04:55:53.387968,Philippines,Monitor,Billing,Critical,Web,236,Closed,42.19,24,1
+47,20,2025-10-13 09:55:53.387968,Australia,Laptop,Setup,Low,Web,270,Resolved,31.04,8,3
+48,31558,2026-06-27 16:55:53.387968,Malaysia,Accessory,Hardware Issue,Medium,Chat,400,Open,59.74,4,3
+49,29433,2025-10-14 03:55:53.387968,India,Printer,Billing,Critical,WhatsApp,398,In Progress,30.76,8,4
+50,486,2026-03-07 02:55:53.387968,Indonesia,Desktop,Software Issue,Medium,WhatsApp,95,In Progress,72.08,24,2
+51,7150,2025-06-19 03:55:53.387968,Malaysia,Accessory,Hardware Issue,High,Phone,485,Resolved,81.40,4,2
+52,37527,2026-04-01 20:55:53.387968,Philippines,Desktop,Performance,High,Email,229,Closed,32.18,8,4
+53,30484,2024-10-01 04:55:53.387968,Malaysia,Accessory,Performance,Medium,Phone,384,Closed,1.94,48,5
+54,13823,2025-08-26 21:55:53.387968,Indonesia,Desktop,Performance,Medium,Chat,246,Resolved,93.86,8,5
+55,11956,2026-03-02 09:55:53.387968,Indonesia,Desktop,Performance,Low,Email,2,Resolved,1.89,8,1
+56,25097,2025-06-29 19:55:53.387968,Malaysia,Desktop,Connectivity,High,WhatsApp,398,Resolved,67.81,24,2
+57,17836,2026-09-16 10:55:53.387968,New Zealand,Laptop,Connectivity,Medium,Phone,81,In Progress,12.52,4,4
+58,30239,2025-02-10 02:55:53.387968,Malaysia,Accessory,Performance,High,Phone,198,In Progress,43.31,4,1
+59,14462,2024-12-17 23:55:53.387968,Malaysia,Desktop,Software Issue,High,Email,106,Resolved,33.33,4,1
+60,12604,2025-03-21 23:55:53.387968,Indonesia,Printer,Performance,Critical,Web,267,In Progress,26.82,8,1
+61,12721,2024-11-07 06:55:53.387968,New Zealand,Monitor,Performance,Medium,Chat,144,Open,45.28,4,4
+62,20224,2026-07-25 01:55:53.387968,Singapore,Printer,Setup,Critical,Email,254,Resolved,55.41,4,4
+63,36983,2025-06-01 07:55:53.387968,New Zealand,Accessory,Hardware Issue,Medium,WhatsApp,390,Resolved,39.11,24,3
+64,28070,2025-05-10 17:55:53.387968,Australia,Printer,Hardware Issue,Low,Web,323,Resolved,20.11,4,1
+65,14544,2026-07-05 02:55:53.387968,Philippines,Accessory,Hardware Issue,Low,Web,490,Resolved,59.65,4,5
+66,40748,2024-10-07 03:55:53.387968,Indonesia,Accessory,Billing,Medium,Chat,358,Closed,19.28,48,4
+67,44416,2025-11-18 16:55:53.387968,Malaysia,Desktop,Connectivity,Low,Chat,169,In Progress,34.40,8,5
+68,36054,2025-12-31 15:55:53.387968,Australia,Laptop,Performance,High,Web,124,Resolved,25.80,24,1
+69,46862,2025-06-09 12:55:53.387968,Philippines,Desktop,Hardware Issue,Critical,Web,56,In Progress,18.54,8,2
+70,22856,2026-09-18 02:55:53.387968,Singapore,Monitor,Performance,High,Phone,232,Resolved,80.86,24,1
+71,24209,2025-07-27 01:55:53.387968,Australia,Accessory,Hardware Issue,Critical,WhatsApp,393,Closed,79.82,4,5
+72,39167,2025-02-09 20:55:53.387968,Malaysia,Desktop,Software Issue,High,Web,278,Resolved,26.24,8,2
+73,15940,2025-09-16 19:55:53.387968,Philippines,Accessory,Performance,High,Phone,28,Resolved,25.38,4,2
+74,7290,2026-06-02 14:55:53.387968,Malaysia,Printer,Performance,Low,Chat,294,In Progress,28.50,4,5
+75,21517,2026-01-01 22:55:53.387968,Philippines,Laptop,Setup,Critical,Phone,455,Closed,52.58,24,4
+76,45551,2026-05-01 04:55:53.387968,India,Accessory,Setup,Medium,Email,259,Open,94.45,4,2
+77,37602,2024-12-07 11:55:53.387968,Singapore,Desktop,Hardware Issue,Low,Chat,7,In Progress,13.41,48,4
+78,4483,2026-07-26 14:55:53.387968,Indonesia,Laptop,Setup,Critical,WhatsApp,238,Open,5.22,24,3
+79,1575,2024-11-16 10:55:53.387968,Australia,Printer,Connectivity,Critical,WhatsApp,214,Closed,31.85,48,2
+80,22275,2026-09-13 21:55:53.387968,Australia,Desktop,Performance,Medium,WhatsApp,239,In Progress,78.83,24,3
+81,13823,2025-07-03 23:55:53.387968,Australia,Monitor,Billing,Medium,Web,108,Open,55.66,48,2
+82,26824,2024-12-11 09:55:53.387968,Indonesia,Desktop,Billing,Critical,Phone,179,Resolved,63.95,4,4
+83,20302,2025-09-17 09:55:53.387968,Australia,Laptop,Connectivity,Medium,Chat,223,Resolved,56.94,8,2
+84,47503,2026-09-13 19:55:53.387968,India,Laptop,Hardware Issue,Critical,Chat,56,Closed,66.01,8,1
+85,2076,2026-04-21 16:55:53.387968,Malaysia,Printer,Software Issue,High,WhatsApp,100,Open,57.41,4,3
+86,1046,2024-11-17 14:55:53.387968,New Zealand,Monitor,Billing,Critical,Web,488,Closed,55.91,8,5
+87,33209,2026-04-13 05:55:53.387968,Philippines,Desktop,Software Issue,High,Web,477,Open,31.04,8,5
+88,3577,2025-02-19 19:55:53.387968,Philippines,Desktop,Setup,Critical,WhatsApp,10,Open,44.60,48,4
+89,45765,2026-02-01 16:55:53.387968,Philippines,Monitor,Connectivity,Medium,Email,69,Open,91.60,4,1
+90,29009,2025-05-24 01:55:53.387968,Philippines,Desktop,Hardware Issue,Low,Chat,277,Open,56.37,48,4
+91,36943,2026-05-27 18:55:53.387968,Indonesia,Accessory,Performance,High,Chat,4,Open,66.71,24,4
+92,37168,2026-05-06 19:55:53.387968,India,Printer,Hardware Issue,High,WhatsApp,433,Open,94.45,8,3
+93,30122,2024-12-06 22:55:53.387968,Singapore,Monitor,Setup,Critical,Web,171,In Progress,86.07,24,4
+94,18409,2026-04-12 23:55:53.387968,Indonesia,Accessory,Software Issue,Medium,Web,128,Open,34.19,24,3
+95,43240,2024-09-22 05:55:53.387968,Singapore,Laptop,Connectivity,Low,Chat,246,Resolved,89.82,24,1
+96,21288,2026-05-25 06:55:53.387968,Singapore,Accessory,Billing,Low,Chat,396,Closed,62.15,8,1
+97,10856,2026-02-20 08:55:53.387968,Indonesia,Desktop,Performance,Critical,Phone,199,Closed,32.67,48,2
+98,49531,2025-04-01 02:55:53.387968,Australia,Desktop,Connectivity,Critical,WhatsApp,453,Closed,29.11,4,5
+99,23107,2024-11-28 15:55:53.387968,Philippines,Accessory,Connectivity,Medium,Phone,258,Open,54.56,48,2
+100,5789,2026-08-05 07:55:53.387968,Singapore,Accessory,Setup,Critical,WhatsApp,84,Closed,28.31,8,5
+101,30072,2025-04-01 10:55:53.387968,Australia,Accessory,Performance,High,Web,10,In Progress,37.97,8,4
+102,43944,2024-12-28 11:55:53.387968,India,Printer,Software Issue,Medium,WhatsApp,109,Open,55.68,24,2
+103,1000,2025-08-02 19:55:53.387968,India,Laptop,Setup,Medium,Phone,491,Closed,67.41,24,5
+104,17410,2026-09-11 19:55:53.387968,Australia,Desktop,Software Issue,High,Chat,481,In Progress,44.02,8,3
+105,44220,2026-07-29 10:55:53.387968,Philippines,Desktop,Software Issue,Critical,Email,376,Resolved,36.48,8,5
+106,9743,2025-07-16 10:55:53.387968,Australia,Printer,Billing,High,Phone,101,Open,1.48,48,1
+107,6732,2025-07-17 11:55:53.387968,Indonesia,Printer,Billing,Critical,Email,454,Open,42.18,8,4
+108,35450,2025-09-13 10:55:53.387968,Australia,Laptop,Billing,Critical,Phone,233,Closed,48.90,24,5
+109,6677,2026-02-06 11:55:53.387968,Australia,Monitor,Software Issue,Medium,Web,196,Resolved,71.75,24,2
+110,34646,2024-12-03 19:55:53.387968,New Zealand,Monitor,Connectivity,Medium,Phone,221,In Progress,58.80,8,4
+111,8155,2025-06-28 22:55:53.387968,Singapore,Printer,Billing,Medium,Chat,365,Resolved,92.94,8,5
+112,26430,2024-11-18 04:55:53.387968,Australia,Accessory,Hardware Issue,Medium,Email,114,In Progress,87.35,8,1
+113,12557,2025-12-19 01:55:53.387968,Singapore,Accessory,Setup,High,Chat,322,Open,68.72,8,3
+114,38955,2025-12-01 18:55:53.387968,Indonesia,Desktop,Billing,High,Email,165,Open,15.15,48,2
+115,424,2026-04-29 10:55:53.387968,Singapore,Printer,Setup,High,WhatsApp,208,Open,37.81,8,1
+116,33807,2026-01-13 21:55:53.387968,Indonesia,Printer,Billing,Critical,Web,354,Resolved,67.43,24,2
+117,33739,2026-02-26 09:55:53.387968,Singapore,Monitor,Software Issue,Critical,WhatsApp,317,Closed,62.32,48,4
+118,2347,2025-07-27 02:55:53.387968,Australia,Printer,Performance,Critical,WhatsApp,7,In Progress,24.24,4,4
+119,23452,2024-12-10 03:55:53.387968,New Zealand,Monitor,Software Issue,Critical,WhatsApp,71,Open,74.68,8,4
+120,37351,2025-04-06 06:55:53.387968,Philippines,Accessory,Setup,High,Web,53,In Progress,91.76,24,2
+121,6519,2025-01-14 14:55:53.387968,Indonesia,Accessory,Setup,Critical,Email,248,Closed,62.29,24,3
+122,36395,2026-07-02 01:55:53.387968,Australia,Monitor,Connectivity,High,Email,138,Resolved,10.44,4,2
+123,24722,2026-08-19 14:55:53.387968,Indonesia,Monitor,Performance,High,WhatsApp,313,In Progress,35.64,8,3
+124,13010,2026-01-06 02:55:53.387968,Indonesia,Desktop,Setup,Medium,Chat,493,Resolved,51.66,24,3
+125,1707,2026-02-27 21:55:53.387968,Indonesia,Laptop,Software Issue,Critical,Chat,254,Open,60.75,8,2
+126,25447,2025-07-12 07:55:53.387968,Singapore,Laptop,Setup,High,Web,109,Resolved,84.55,48,3
+127,16171,2025-11-05 14:55:53.387968,Indonesia,Laptop,Setup,Medium,Phone,228,Open,23.87,24,1
+128,22274,2025-03-04 04:55:53.387968,Philippines,Printer,Software Issue,Medium,Chat,323,Open,4.74,48,4
+129,44121,2025-09-30 08:55:53.387968,Philippines,Monitor,Hardware Issue,Medium,WhatsApp,405,In Progress,36.52,48,5
+130,47641,2026-05-20 22:55:53.387968,Indonesia,Laptop,Performance,Medium,Web,216,Open,13.93,24,5
+131,18964,2025-04-05 01:55:53.387968,India,Monitor,Setup,Critical,Phone,358,Closed,82.61,8,5
+132,46651,2025-10-03 13:55:53.387968,New Zealand,Monitor,Hardware Issue,Medium,Chat,99,Open,42.44,48,5
+133,16782,2024-09-21 23:55:53.387968,Singapore,Desktop,Hardware Issue,Low,Chat,480,Resolved,41.04,24,3
+134,30128,2026-07-07 01:55:53.387968,Indonesia,Accessory,Hardware Issue,Medium,Phone,5,Resolved,66.55,8,2
+135,21721,2026-09-02 03:55:53.387968,India,Desktop,Software Issue,Medium,Email,318,Open,62.60,8,3
+136,26641,2026-06-26 15:55:53.387968,India,Printer,Connectivity,Medium,Chat,70,Closed,2.33,4,1
+137,36426,2025-07-24 14:55:53.387968,Australia,Accessory,Setup,Critical,Web,82,Resolved,77.25,24,2
+138,9903,2026-04-18 09:55:53.387968,Singapore,Monitor,Billing,High,Phone,460,Closed,37.66,48,2
+139,47717,2025-09-13 03:55:53.387968,Indonesia,Accessory,Performance,Critical,Email,63,Open,59.73,8,3
+140,16790,2025-07-18 22:55:53.387968,Indonesia,Monitor,Setup,Medium,Phone,374,In Progress,90.32,24,2
+141,3657,2026-03-18 19:55:53.387968,India,Monitor,Hardware Issue,High,Phone,169,Resolved,43.05,8,1
+142,26297,2026-07-02 00:55:53.387968,Philippines,Accessory,Connectivity,High,Phone,337,Open,10.27,48,3
+143,14712,2025-07-22 14:55:53.387968,Philippines,Printer,Software Issue,Medium,Phone,191,Closed,19.52,24,4
+144,17527,2026-07-08 05:55:53.387968,New Zealand,Desktop,Billing,Low,WhatsApp,204,Open,92.63,8,4
+145,22593,2024-10-08 14:55:53.387968,Australia,Accessory,Billing,High,Chat,320,Open,33.88,8,3
+146,36328,2024-11-27 13:55:53.387968,New Zealand,Monitor,Hardware Issue,Critical,Phone,87,In Progress,22.58,48,3
+147,8114,2025-05-03 07:55:53.387968,Australia,Laptop,Setup,High,Web,299,In Progress,92.13,24,2
+148,36658,2025-10-19 13:55:53.387968,Philippines,Laptop,Hardware Issue,Low,Web,423,Closed,87.54,8,3
+149,3028,2026-06-28 08:55:53.387968,New Zealand,Laptop,Hardware Issue,High,WhatsApp,166,Closed,56.28,24,5
+150,3614,2026-06-16 12:55:53.387968,Singapore,Accessory,Setup,High,Web,418,In Progress,31.72,8,1
+151,31777,2025-06-29 04:55:53.387968,Indonesia,Desktop,Connectivity,Low,Web,374,Resolved,73.96,48,3
+152,42532,2025-10-24 11:55:53.387968,Singapore,Monitor,Software Issue,High,Email,50,Open,17.46,8,4
+153,17197,2026-03-28 09:55:53.387968,Malaysia,Desktop,Setup,Critical,Email,282,Open,43.83,8,5
+154,44668,2025-04-28 10:55:53.387968,Singapore,Desktop,Connectivity,High,Web,128,Closed,15.28,4,1
+155,9542,2025-03-16 22:55:53.387968,Malaysia,Printer,Connectivity,Low,Phone,84,Resolved,79.77,8,4
+156,28705,2025-06-26 17:55:53.387968,Philippines,Desktop,Connectivity,High,Web,58,Closed,16.47,24,3
+157,31112,2025-05-26 16:55:53.387968,India,Monitor,Performance,Critical,Chat,456,Open,56.89,48,4
+158,27934,2024-12-18 17:55:53.387968,New Zealand,Printer,Software Issue,Medium,Web,46,Resolved,73.40,24,4
+159,46346,2026-07-28 05:55:53.387968,Indonesia,Laptop,Billing,Critical,WhatsApp,339,Open,21.30,24,2
+160,33919,2025-11-28 04:55:53.387968,Malaysia,Laptop,Hardware Issue,Low,WhatsApp,2,Closed,46.10,4,3
+161,3133,2026-05-10 14:55:53.387968,New Zealand,Printer,Connectivity,Critical,WhatsApp,484,Open,59.05,48,1
+162,7215,2025-12-20 10:55:53.387968,Malaysia,Laptop,Performance,Critical,Web,208,In Progress,81.79,4,5
+163,6429,2025-09-09 06:55:53.387968,Indonesia,Desktop,Setup,Medium,Email,205,Resolved,31.06,48,4
+164,25501,2024-11-20 03:55:53.387968,Australia,Accessory,Performance,Medium,Phone,261,Open,51.94,48,3
+165,35387,2025-03-04 00:55:53.387968,Malaysia,Laptop,Connectivity,Low,Phone,440,Closed,60.01,8,4
+166,33913,2025-10-10 21:55:53.387968,New Zealand,Desktop,Connectivity,Critical,WhatsApp,338,Closed,51.11,8,4
+167,16748,2025-11-29 18:55:53.387968,Malaysia,Laptop,Hardware Issue,High,WhatsApp,96,Open,58.66,48,2
+168,38807,2025-12-12 17:55:53.387968,Malaysia,Accessory,Setup,Critical,Web,307,Resolved,56.12,8,4
+169,38872,2025-05-06 01:55:53.387968,New Zealand,Accessory,Billing,Critical,Chat,495,Closed,50.42,24,1
+170,1850,2024-10-21 20:55:53.387968,India,Printer,Hardware Issue,Critical,Web,133,Closed,28.83,48,5
+171,2894,2026-06-24 19:55:53.387968,Singapore,Accessory,Billing,High,Phone,302,Resolved,31.91,8,1
+172,40951,2026-02-05 05:55:53.387968,India,Printer,Hardware Issue,Critical,Phone,454,Resolved,45.07,48,5
+173,36715,2025-10-29 06:55:53.387968,Indonesia,Desktop,Connectivity,Medium,Email,406,Closed,94.15,48,4
+174,23422,2024-12-03 03:55:53.387968,Malaysia,Printer,Software Issue,Critical,Email,114,Resolved,15.15,48,1
+175,2896,2025-01-18 12:55:53.387968,India,Monitor,Connectivity,Critical,Chat,39,Resolved,63.87,48,5
+176,14397,2025-07-07 15:55:53.387968,Australia,Monitor,Software Issue,Medium,WhatsApp,38,In Progress,36.23,48,4
+177,10164,2025-01-22 15:55:53.387968,Singapore,Desktop,Software Issue,Critical,Email,304,In Progress,51.99,4,1
+178,40124,2024-10-19 05:55:53.387968,Australia,Desktop,Connectivity,Medium,Chat,413,Resolved,79.48,4,2
+179,23173,2025-10-12 03:55:53.387968,Philippines,Printer,Billing,Medium,WhatsApp,112,Resolved,92.57,24,2
+180,39495,2025-08-07 06:55:53.387968,Malaysia,Laptop,Setup,Medium,Email,238,Open,64.93,8,5
+181,2071,2025-11-16 02:55:53.387968,India,Printer,Billing,Medium,Phone,44,Closed,51.45,24,2
+182,41312,2026-08-14 23:55:53.387968,Malaysia,Accessory,Software Issue,High,WhatsApp,14,In Progress,65.54,8,5
+183,5572,2026-06-07 14:55:53.387968,India,Desktop,Connectivity,High,Chat,311,In Progress,86.67,8,2
+184,400,2026-02-14 21:55:53.387968,Philippines,Desktop,Setup,Low,Chat,181,Resolved,84.34,8,3
+185,49682,2026-04-05 22:55:53.387968,India,Desktop,Setup,High,WhatsApp,280,Open,30.46,48,1
+186,3318,2025-05-25 15:55:53.387968,Australia,Accessory,Hardware Issue,Critical,WhatsApp,315,In Progress,40.32,24,2
+187,31166,2025-01-06 00:55:53.387968,New Zealand,Printer,Software Issue,Low,Phone,349,Closed,69.68,48,5
+188,9535,2026-03-27 02:55:53.387968,Philippines,Monitor,Setup,Low,Email,289,Resolved,89.48,48,4
+189,31955,2026-01-17 15:55:53.387968,India,Desktop,Setup,Critical,Chat,236,Open,64.34,4,3
+190,4712,2025-05-10 22:55:53.387968,Singapore,Laptop,Connectivity,Low,Email,323,Closed,2.69,8,3
+191,27370,2026-06-14 17:55:53.387968,Malaysia,Monitor,Setup,Low,WhatsApp,179,Resolved,85.84,48,5
+192,43948,2026-02-18 11:55:53.387968,Australia,Laptop,Setup,Critical,Chat,180,Closed,81.80,8,5
+193,38034,2025-06-25 02:55:53.387968,Indonesia,Monitor,Connectivity,Low,Chat,134,In Progress,26.75,48,4
+194,370,2026-03-11 02:55:53.387968,Singapore,Desktop,Performance,Medium,Chat,439,Open,52.88,4,1
+195,45768,2026-06-14 10:55:53.387968,Singapore,Accessory,Billing,High,WhatsApp,429,Closed,46.26,8,3
+196,44653,2025-07-26 13:55:53.387968,New Zealand,Monitor,Hardware Issue,Critical,Phone,406,Closed,23.61,48,4
+197,38839,2025-01-06 05:55:53.387968,Philippines,Accessory,Connectivity,Critical,WhatsApp,185,Resolved,21.91,48,2
+198,1917,2025-04-28 11:55:53.387968,Singapore,Desktop,Setup,High,Chat,335,Closed,31.21,48,2
+199,30138,2025-03-16 11:55:53.387968,New Zealand,Laptop,Software Issue,Low,Chat,285,Resolved,27.12,48,5
+200,36207,2024-11-02 06:55:53.387968,Australia,Laptop,Software Issue,Critical,Web,356,Closed,22.27,4,5
+201,29497,2025-12-12 04:55:53.387968,New Zealand,Accessory,Connectivity,Medium,Web,177,In Progress,42.20,8,4
+202,110,2026-06-21 00:55:53.387968,Singapore,Laptop,Setup,Critical,WhatsApp,399,Open,16.58,48,4
+203,31541,2026-03-30 01:55:53.387968,New Zealand,Accessory,Performance,Low,WhatsApp,98,Open,87.78,8,5
+204,4363,2025-11-04 12:55:53.387968,Philippines,Printer,Billing,High,Email,305,Open,28.10,4,5
+205,9904,2026-03-23 17:55:53.387968,New Zealand,Accessory,Performance,Critical,Email,252,Open,48.54,4,1
+206,5232,2026-03-09 23:55:53.387968,Singapore,Laptop,Software Issue,High,Phone,132,Open,84.06,48,2
+207,6223,2024-10-17 21:55:53.387968,Australia,Laptop,Software Issue,High,WhatsApp,122,Closed,81.93,8,5
+208,29721,2026-04-06 18:55:53.387968,Australia,Printer,Software Issue,Low,Phone,277,Resolved,13.03,24,2
+209,28718,2024-12-10 14:55:53.387968,India,Monitor,Billing,Medium,WhatsApp,359,In Progress,19.18,8,2
+210,29083,2025-06-03 13:55:53.387968,Indonesia,Laptop,Connectivity,Critical,WhatsApp,100,Resolved,1.86,4,3
+211,39547,2024-11-07 06:55:53.387968,Indonesia,Monitor,Setup,Medium,Email,412,Closed,9.67,4,4
+212,11866,2026-08-17 21:55:53.387968,Philippines,Printer,Hardware Issue,Low,WhatsApp,211,Open,41.54,8,4
+213,37563,2026-05-14 16:55:53.387968,New Zealand,Desktop,Hardware Issue,Critical,Web,242,Resolved,61.29,48,2
+214,43809,2025-07-05 05:55:53.387968,India,Accessory,Hardware Issue,High,Email,104,Resolved,58.62,48,1
+215,49039,2025-05-28 09:55:53.387968,Indonesia,Desktop,Performance,High,WhatsApp,342,Resolved,37.53,4,4
+216,8098,2026-06-18 00:55:53.387968,Philippines,Accessory,Setup,Low,Web,199,In Progress,33.23,24,5
+217,26335,2025-08-27 00:55:53.387968,Philippines,Accessory,Performance,Low,Phone,195,Open,31.30,4,4
+218,35194,2026-09-01 03:55:53.387968,New Zealand,Laptop,Software Issue,Medium,Web,472,In Progress,9.41,24,1
+219,22776,2024-10-10 08:55:53.387968,Singapore,Monitor,Hardware Issue,Low,Web,67,Open,16.73,24,3
+220,20604,2025-01-07 09:55:53.387968,India,Accessory,Billing,Medium,WhatsApp,446,Closed,27.34,48,2
+221,34622,2024-11-18 11:55:53.387968,Australia,Laptop,Performance,Low,Phone,45,Resolved,93.49,4,1
+222,4398,2025-08-10 02:55:53.387968,Philippines,Accessory,Connectivity,Medium,Web,464,Closed,32.51,8,1
+223,27141,2026-03-14 09:55:53.387968,New Zealand,Desktop,Performance,Medium,Web,351,Closed,31.30,8,1
+224,45834,2026-03-26 03:55:53.387968,Australia,Laptop,Software Issue,High,Chat,208,Open,2.42,4,5
+225,49140,2025-10-23 22:55:53.387968,Australia,Accessory,Software Issue,High,Email,324,Closed,51.76,4,1
+226,89,2025-07-05 14:55:53.387968,Malaysia,Laptop,Billing,Medium,Chat,485,Resolved,84.42,48,2
+227,20928,2025-11-01 11:55:53.387968,Singapore,Printer,Hardware Issue,Medium,Email,273,In Progress,17.73,48,1
+228,7942,2025-08-27 05:55:53.387968,Indonesia,Desktop,Software Issue,Low,Web,23,Resolved,39.14,48,1
+229,32718,2026-04-23 23:55:53.387968,Malaysia,Accessory,Billing,Critical,WhatsApp,364,In Progress,93.92,8,3
+230,39660,2025-12-14 06:55:53.387968,India,Accessory,Billing,High,Email,57,In Progress,6.68,4,1
+231,14678,2024-11-16 23:55:53.387968,India,Monitor,Hardware Issue,Medium,WhatsApp,313,Resolved,30.06,4,1
+232,40655,2025-11-22 00:55:53.387968,Philippines,Monitor,Software Issue,Low,Web,143,Open,45.42,48,4
+233,43964,2026-03-26 09:55:53.387968,India,Desktop,Hardware Issue,Low,Chat,389,Open,93.71,4,5
+234,25100,2024-12-27 08:55:53.387968,India,Laptop,Performance,High,Phone,261,Closed,52.93,24,4
+235,17443,2025-01-19 07:55:53.387968,Malaysia,Laptop,Connectivity,Critical,Phone,131,In Progress,29.07,4,1
+236,33735,2024-10-28 00:55:53.387968,New Zealand,Monitor,Connectivity,Medium,Chat,500,Resolved,20.97,24,2
+237,13334,2026-08-22 20:55:53.387968,Indonesia,Monitor,Hardware Issue,Medium,Chat,320,In Progress,86.86,24,5
+238,23577,2025-08-31 16:55:53.387968,Philippines,Accessory,Hardware Issue,Low,Chat,256,In Progress,72.59,4,5
+239,26545,2024-12-22 15:55:53.387968,Singapore,Monitor,Hardware Issue,Low,Chat,202,In Progress,40.33,8,1
+240,14125,2026-08-12 22:55:53.387968,India,Laptop,Billing,Medium,Chat,476,In Progress,50.97,48,1
+241,38591,2025-01-10 14:55:53.387968,Malaysia,Accessory,Billing,Medium,Chat,182,Open,40.94,4,5
+242,27316,2026-05-18 05:55:53.387968,Malaysia,Monitor,Hardware Issue,Critical,Email,190,In Progress,47.32,4,1
+243,20164,2025-08-02 05:55:53.387968,New Zealand,Printer,Billing,High,Chat,149,Open,27.46,24,5
+244,28195,2025-12-22 08:55:53.387968,Singapore,Accessory,Software Issue,High,Web,370,Resolved,30.73,8,3
+245,12102,2026-07-01 07:55:53.387968,New Zealand,Monitor,Software Issue,Critical,Phone,70,Resolved,5.17,8,3
+246,15690,2025-06-19 20:55:53.387968,Indonesia,Desktop,Setup,Critical,Email,309,Closed,51.22,8,2
+247,25453,2026-08-15 19:55:53.387968,Singapore,Monitor,Software Issue,High,WhatsApp,76,In Progress,52.14,4,3
+248,25924,2025-01-29 21:55:53.387968,Philippines,Laptop,Performance,High,Web,249,Resolved,14.56,48,1
+249,30340,2025-08-19 07:55:53.387968,India,Laptop,Connectivity,High,Chat,52,Resolved,47.78,48,2
+250,46462,2024-12-07 17:55:53.387968,Malaysia,Laptop,Hardware Issue,Critical,Email,490,Closed,39.34,8,5
+251,8557,2025-01-10 05:55:53.387968,Singapore,Desktop,Hardware Issue,High,WhatsApp,342,In Progress,51.35,24,4
+252,27689,2025-11-10 20:55:53.387968,Indonesia,Monitor,Performance,High,Phone,310,Open,53.61,48,1
+253,17708,2026-03-12 17:55:53.387968,Singapore,Desktop,Billing,Critical,Phone,47,Closed,55.59,4,1
+254,4591,2024-10-11 15:55:53.387968,Australia,Monitor,Hardware Issue,High,Phone,66,Resolved,69.18,48,4
+255,22649,2025-02-22 22:55:53.387968,Philippines,Laptop,Setup,High,WhatsApp,267,In Progress,82.23,8,1
+256,46241,2024-11-30 11:55:53.387968,Malaysia,Accessory,Connectivity,Critical,Phone,276,Open,6.01,48,2
+257,24056,2025-06-12 16:55:53.387968,Philippines,Monitor,Software Issue,Medium,Chat,128,Open,61.17,48,5
+258,40360,2025-02-23 18:55:53.387968,India,Printer,Connectivity,Medium,Email,421,In Progress,75.84,48,2
+259,47651,2025-05-05 14:55:53.387968,India,Accessory,Software Issue,High,Email,376,Closed,11.05,4,5
+260,47479,2026-04-23 10:55:53.387968,Malaysia,Desktop,Hardware Issue,High,WhatsApp,301,Closed,93.27,24,5
+261,24025,2025-01-17 23:55:53.387968,India,Desktop,Connectivity,Low,WhatsApp,162,Open,17.14,8,1
+262,12360,2025-10-19 08:55:53.387968,Singapore,Monitor,Billing,Low,Chat,429,Resolved,20.58,24,5
+263,24003,2025-09-05 22:55:53.387968,Philippines,Monitor,Connectivity,High,Chat,486,Resolved,88.15,48,3
+264,12694,2025-05-29 01:55:53.387968,Malaysia,Accessory,Connectivity,Critical,Email,491,Resolved,27.29,4,3
+265,15178,2025-03-24 17:55:53.387968,Indonesia,Desktop,Performance,Medium,WhatsApp,390,Resolved,38.19,48,2
+266,26232,2026-01-26 00:55:53.387968,India,Laptop,Billing,Medium,Web,379,Resolved,8.76,24,1
+267,40399,2026-01-14 10:55:53.387968,Singapore,Monitor,Performance,Critical,Web,201,In Progress,48.48,24,5
+268,4871,2025-08-17 19:55:53.387968,Australia,Printer,Billing,Low,Email,190,In Progress,7.82,24,5
+269,5443,2026-08-01 08:55:53.387968,India,Desktop,Hardware Issue,High,WhatsApp,257,Resolved,33.57,4,5
+270,2419,2026-06-29 06:55:53.387968,India,Monitor,Billing,High,Chat,247,Resolved,5.55,8,1
+271,39063,2026-05-23 11:55:53.387968,New Zealand,Accessory,Setup,Medium,Chat,322,Resolved,21.72,24,3
+272,38449,2024-10-01 19:55:53.387968,Philippines,Laptop,Performance,Medium,Phone,246,Closed,37.07,4,5
+273,36405,2025-05-28 01:55:53.387968,New Zealand,Monitor,Software Issue,Medium,Phone,112,Open,93.63,48,4
+274,32370,2025-02-28 07:55:53.387968,India,Desktop,Billing,Critical,Chat,254,Open,15.17,24,3
+275,12951,2026-05-21 05:55:53.387968,Indonesia,Printer,Billing,High,Chat,448,Open,75.58,4,1
+276,38895,2025-09-30 21:55:53.387968,Indonesia,Laptop,Setup,Low,Email,239,Open,82.36,48,5
+277,41023,2025-08-18 11:55:53.387968,Malaysia,Monitor,Performance,Critical,Email,74,Closed,32.04,8,2
+278,22982,2024-10-07 13:55:53.387968,Singapore,Laptop,Performance,High,WhatsApp,213,Closed,17.92,8,2
+279,13807,2025-11-06 00:55:53.387968,Australia,Desktop,Software Issue,Low,Email,263,In Progress,73.21,4,2
+280,44937,2024-10-22 12:55:53.387968,India,Laptop,Setup,Medium,Web,231,Resolved,11.43,48,4
+281,36682,2024-12-02 01:55:53.387968,India,Monitor,Billing,Medium,Email,338,Open,62.42,4,4
+282,12373,2025-10-21 14:55:53.387968,New Zealand,Accessory,Performance,Medium,Chat,282,In Progress,88.86,48,2
+283,41602,2025-12-15 09:55:53.387968,Indonesia,Accessory,Setup,Low,Email,385,Closed,34.60,4,1
+284,39643,2025-01-24 07:55:53.387968,Indonesia,Accessory,Billing,Critical,Web,466,In Progress,4.06,48,1
+285,11898,2025-08-08 06:55:53.387968,India,Accessory,Connectivity,Critical,Email,199,Open,27.69,48,5
+286,18633,2026-04-23 07:55:53.387968,Indonesia,Printer,Performance,Critical,WhatsApp,291,Resolved,46.82,4,3
+287,8925,2026-08-13 09:55:53.387968,Malaysia,Printer,Hardware Issue,Low,Web,396,Closed,77.31,8,1
+288,17890,2026-06-11 12:55:53.387968,Singapore,Accessory,Connectivity,Medium,Phone,380,Closed,10.27,48,2
+289,1542,2026-02-06 01:55:53.387968,Philippines,Desktop,Hardware Issue,Critical,Phone,403,Resolved,79.30,24,3
+290,24671,2025-04-18 19:55:53.387968,Malaysia,Laptop,Connectivity,Low,Phone,252,In Progress,56.42,4,4
+291,25699,2026-08-22 12:55:53.387968,Singapore,Laptop,Software Issue,Critical,Phone,316,In Progress,53.10,4,1
+292,10382,2025-07-09 08:55:53.387968,Malaysia,Monitor,Billing,Low,Chat,208,Open,21.16,4,1
+293,23794,2026-08-08 07:55:53.387968,Australia,Desktop,Hardware Issue,Medium,Web,112,In Progress,63.05,4,1
+294,20254,2024-11-16 09:55:53.387968,Indonesia,Desktop,Performance,Low,Web,465,Open,31.24,24,2
+295,3028,2025-01-15 17:55:53.387968,India,Monitor,Hardware Issue,Low,Phone,236,In Progress,38.25,8,4
+296,37357,2025-11-10 04:55:53.387968,Indonesia,Printer,Setup,Medium,Email,63,Open,35.75,24,1
+297,34773,2026-09-07 13:55:53.387968,Malaysia,Printer,Connectivity,Low,Email,94,Resolved,35.15,8,1
+298,37013,2026-03-01 10:55:53.387968,Philippines,Monitor,Setup,High,Web,368,In Progress,49.08,4,2
+299,39438,2025-06-27 21:55:53.387968,Australia,Desktop,Hardware Issue,Low,Email,200,Resolved,54.90,24,5
+300,6711,2026-04-29 08:55:53.387968,Malaysia,Printer,Software Issue,Low,Phone,342,Closed,22.56,4,5
+301,44862,2026-06-21 22:55:53.387968,Indonesia,Desktop,Billing,Critical,WhatsApp,167,Closed,92.70,4,3
+302,28769,2025-12-21 21:55:53.387968,Singapore,Laptop,Software Issue,Low,Email,44,In Progress,2.84,24,2
+303,2635,2025-08-08 01:55:53.387968,New Zealand,Accessory,Hardware Issue,Critical,Web,30,Resolved,31.36,24,5
+304,37843,2026-06-16 22:55:53.387968,Singapore,Monitor,Connectivity,Low,Phone,342,Resolved,74.79,24,4
+305,16344,2026-04-05 07:55:53.387968,Indonesia,Accessory,Hardware Issue,Critical,Phone,451,Resolved,76.78,48,4
+306,10259,2026-07-08 06:55:53.387968,Singapore,Laptop,Setup,Critical,Web,123,In Progress,9.86,4,5
+307,37743,2026-08-15 06:55:53.387968,India,Laptop,Billing,Low,Chat,309,Closed,23.01,48,2
+308,21739,2025-07-13 09:55:53.387968,Malaysia,Printer,Performance,Medium,Phone,471,In Progress,9.39,8,3
+309,47765,2025-02-03 22:55:53.387968,Australia,Desktop,Connectivity,Low,Chat,112,In Progress,92.59,48,4
+310,223,2024-11-07 07:55:53.387968,Singapore,Printer,Billing,Medium,Email,102,Resolved,54.24,48,3
+311,37614,2026-04-15 02:55:53.387968,Malaysia,Laptop,Software Issue,Critical,Web,144,Open,3.95,48,1
+312,2986,2025-03-30 20:55:53.387968,Indonesia,Desktop,Connectivity,High,Web,197,Closed,75.22,4,4
+313,32425,2025-06-26 22:55:53.387968,Singapore,Laptop,Billing,Medium,Chat,473,In Progress,61.02,48,4
+314,6739,2025-05-05 02:55:53.387968,Singapore,Monitor,Connectivity,Low,Chat,132,In Progress,45.64,48,3
+315,39630,2026-04-29 22:55:53.387968,Malaysia,Monitor,Hardware Issue,Critical,Email,44,Closed,62.67,4,2
+316,5268,2025-12-04 13:55:53.387968,Philippines,Monitor,Connectivity,Medium,Web,461,Open,39.31,8,2
+317,42829,2024-10-25 16:55:53.387968,Indonesia,Printer,Connectivity,Low,Web,357,Resolved,44.84,8,5
+318,25585,2026-09-02 08:55:53.387968,Malaysia,Monitor,Software Issue,Low,Web,396,In Progress,42.72,8,3
+319,33693,2024-10-27 16:55:53.387968,New Zealand,Laptop,Setup,High,Phone,117,Closed,23.15,4,4
+320,33187,2025-08-01 18:55:53.387968,Philippines,Desktop,Software Issue,Critical,Chat,434,Closed,38.59,4,5
+321,18755,2025-01-20 05:55:53.387968,Singapore,Accessory,Software Issue,Medium,Chat,315,Open,46.09,8,4
+322,32837,2025-11-07 10:55:53.387968,Indonesia,Monitor,Billing,Medium,Web,15,In Progress,68.00,8,2
+323,17916,2025-12-23 06:55:53.387968,Malaysia,Desktop,Hardware Issue,High,Web,488,Resolved,14.65,24,3
+324,7673,2026-02-14 19:55:53.387968,New Zealand,Monitor,Software Issue,Low,WhatsApp,402,Open,41.60,48,2
+325,13107,2025-12-27 16:55:53.387968,Singapore,Accessory,Hardware Issue,Medium,Email,216,In Progress,61.25,8,4
+326,9406,2026-06-19 06:55:53.387968,Australia,Printer,Connectivity,Medium,Email,227,Open,54.67,4,1
+327,41670,2026-04-27 19:55:53.387968,Indonesia,Laptop,Hardware Issue,Low,Email,230,In Progress,77.25,24,2
+328,27067,2024-09-24 04:55:53.387968,Indonesia,Laptop,Billing,Low,WhatsApp,356,Closed,90.45,48,5
+329,3728,2024-09-25 13:55:53.387968,Philippines,Monitor,Hardware Issue,Critical,Phone,200,Closed,54.46,24,5
+330,23870,2025-09-13 17:55:53.387968,Indonesia,Desktop,Performance,High,WhatsApp,288,Open,21.00,8,1
+331,26418,2026-04-04 01:55:53.387968,Australia,Laptop,Hardware Issue,Low,Web,324,Open,74.01,4,4
+332,16859,2025-01-05 15:55:53.387968,India,Printer,Performance,Medium,Phone,125,Closed,77.45,4,3
+333,22266,2025-06-30 17:55:53.387968,Singapore,Monitor,Performance,Medium,Chat,319,Closed,32.66,8,1
+334,44947,2026-06-17 12:55:53.387968,Malaysia,Desktop,Performance,High,WhatsApp,381,In Progress,13.51,4,4
+335,18390,2025-12-19 20:55:53.387968,Singapore,Accessory,Connectivity,High,Web,61,In Progress,68.51,4,1
+336,23696,2026-04-03 23:55:53.387968,New Zealand,Monitor,Software Issue,High,Email,420,In Progress,79.82,24,3
+337,17635,2025-10-17 14:55:53.387968,Indonesia,Laptop,Billing,Critical,Web,164,Resolved,4.36,4,5
+338,7770,2026-06-25 10:55:53.387968,New Zealand,Monitor,Performance,Critical,Phone,211,Closed,92.54,4,5
+339,3977,2024-12-10 21:55:53.387968,Singapore,Laptop,Connectivity,Medium,Email,401,Open,57.33,48,2
+340,4681,2025-06-09 08:55:53.387968,Singapore,Printer,Performance,Critical,WhatsApp,104,Closed,68.02,4,2
+341,16614,2026-05-27 00:55:53.387968,Malaysia,Monitor,Performance,Medium,Email,166,In Progress,71.80,48,1
+342,13370,2025-06-09 08:55:53.387968,Malaysia,Accessory,Billing,Critical,Web,303,Closed,41.69,4,4
+343,25584,2026-01-02 21:55:53.387968,India,Laptop,Software Issue,Low,Chat,141,Open,3.91,24,3
+344,338,2025-03-24 09:55:53.387968,India,Laptop,Setup,Low,Web,46,In Progress,89.16,24,4
+345,44455,2025-03-10 17:55:53.387968,India,Printer,Performance,Critical,Web,293,Open,18.60,24,3
+346,33320,2025-11-25 20:55:53.387968,Singapore,Accessory,Software Issue,Critical,Chat,335,Closed,14.03,24,5
+347,29413,2025-07-16 00:55:53.387968,Australia,Printer,Setup,Low,Phone,191,In Progress,36.46,48,1
+348,36900,2026-04-06 04:55:53.387968,Indonesia,Desktop,Software Issue,High,Phone,178,Resolved,43.22,4,2
+349,19844,2025-04-25 21:55:53.387968,New Zealand,Monitor,Performance,Critical,Chat,436,Resolved,19.82,8,2
+350,48953,2025-05-21 17:55:53.387968,New Zealand,Accessory,Connectivity,High,Chat,246,Closed,92.78,8,3
+351,8180,2024-12-03 01:55:53.387968,Indonesia,Desktop,Setup,Critical,WhatsApp,388,Open,40.25,48,5
+352,889,2026-02-08 07:55:53.387968,India,Desktop,Connectivity,Medium,Web,95,Resolved,56.85,4,4
+353,23223,2024-11-08 14:55:53.387968,Australia,Monitor,Billing,Medium,WhatsApp,288,In Progress,63.98,8,5
+354,48151,2025-08-17 01:55:53.387968,New Zealand,Monitor,Connectivity,Critical,WhatsApp,161,In Progress,83.73,24,3
+355,855,2026-05-01 22:55:53.387968,Philippines,Printer,Billing,Medium,Web,313,In Progress,86.68,8,1
+356,43455,2025-03-16 00:55:53.387968,New Zealand,Accessory,Hardware Issue,Low,Chat,489,Resolved,71.33,24,3
+357,10890,2025-06-26 11:55:53.387968,India,Accessory,Setup,Critical,WhatsApp,465,In Progress,57.38,24,5
+358,14578,2026-06-06 16:55:53.387968,Malaysia,Printer,Connectivity,Medium,Chat,241,Open,60.33,8,2
+359,26985,2024-12-22 00:55:53.387968,Philippines,Accessory,Setup,High,Email,360,Resolved,4.28,24,4
+360,5463,2025-10-26 20:55:53.387968,Singapore,Desktop,Billing,High,Chat,171,Open,74.90,8,5
+361,37450,2026-02-27 11:55:53.387968,New Zealand,Monitor,Hardware Issue,Medium,WhatsApp,118,Open,47.14,48,3
+362,34288,2026-07-06 10:55:53.387968,Philippines,Accessory,Connectivity,Medium,Email,30,In Progress,32.97,4,4
+363,36586,2024-12-16 05:55:53.387968,Philippines,Accessory,Connectivity,Critical,Phone,329,Resolved,48.98,4,1
+364,33803,2024-10-21 01:55:53.387968,Singapore,Printer,Connectivity,Medium,Email,113,In Progress,42.99,24,1
+365,42857,2025-07-08 17:55:53.387968,Australia,Desktop,Hardware Issue,Critical,Phone,489,Resolved,40.07,48,1
+366,12570,2025-05-07 03:55:53.387968,India,Monitor,Connectivity,Low,Chat,467,Resolved,51.89,24,1
+367,1877,2024-11-30 18:55:53.387968,New Zealand,Monitor,Software Issue,High,Chat,384,Resolved,46.33,48,5
+368,7408,2025-07-03 08:55:53.387968,New Zealand,Printer,Connectivity,Low,WhatsApp,174,Open,82.14,4,5
+369,31971,2026-05-20 02:55:53.387968,Singapore,Monitor,Software Issue,Critical,WhatsApp,457,Closed,26.40,48,3
+370,48867,2026-09-06 17:55:53.387968,Singapore,Desktop,Billing,Low,Web,497,In Progress,38.63,4,2
+371,16992,2026-05-08 20:55:53.387968,Australia,Monitor,Setup,High,WhatsApp,429,Resolved,40.31,4,2
+372,32528,2025-12-13 13:55:53.387968,Singapore,Laptop,Hardware Issue,Critical,Chat,35,Resolved,34.67,24,3
+373,49377,2026-09-14 11:55:53.387968,Indonesia,Monitor,Setup,Low,Phone,447,Resolved,51.78,4,1
+374,14152,2025-01-08 10:55:53.387968,Philippines,Laptop,Setup,High,Phone,314,Resolved,32.65,24,4
+375,11012,2026-05-23 12:55:53.387968,India,Printer,Software Issue,Low,WhatsApp,188,In Progress,76.72,24,4
+376,9132,2025-03-08 22:55:53.387968,Malaysia,Printer,Billing,Low,Phone,68,Open,27.69,24,5
+377,39327,2025-06-20 08:55:53.387968,Indonesia,Desktop,Software Issue,Critical,Web,28,In Progress,30.86,48,5
+378,1935,2025-08-05 00:55:53.387968,India,Desktop,Setup,Medium,Chat,394,Resolved,22.79,48,3
+379,13087,2024-09-26 23:55:53.387968,Malaysia,Accessory,Software Issue,Low,Web,463,In Progress,42.12,24,4
+380,14664,2025-06-23 14:55:53.387968,Philippines,Printer,Software Issue,Medium,Email,409,Open,4.84,4,2
+381,44313,2024-11-17 23:55:53.387968,Australia,Laptop,Billing,Medium,Web,397,Resolved,7.10,48,4
+382,11302,2025-11-15 22:55:53.387968,Malaysia,Monitor,Connectivity,High,Chat,269,In Progress,92.71,48,5
+383,6345,2026-03-15 21:55:53.387968,Malaysia,Desktop,Software Issue,Critical,Web,281,In Progress,51.67,8,4
+384,27056,2026-07-03 00:55:53.387968,Australia,Monitor,Hardware Issue,Low,Chat,223,In Progress,32.77,48,3
+385,39198,2026-02-25 10:55:53.387968,India,Accessory,Setup,Low,Email,495,Closed,12.81,24,5
+386,23741,2026-05-21 23:55:53.387968,India,Printer,Billing,Critical,Chat,244,Open,23.41,48,2
+387,13941,2026-07-07 10:55:53.387968,India,Desktop,Setup,Medium,Web,405,In Progress,1.19,24,1
+388,910,2025-10-31 09:55:53.387968,Indonesia,Printer,Billing,Low,Email,338,Open,24.26,24,5
+389,987,2026-02-05 16:55:53.387968,Indonesia,Laptop,Setup,Medium,Phone,76,Resolved,34.95,8,2
+390,36921,2026-07-24 02:55:53.387968,Australia,Accessory,Setup,Medium,Phone,242,Open,7.54,24,1
+391,31302,2025-10-29 06:55:53.387968,Australia,Printer,Hardware Issue,Critical,Phone,245,Open,25.07,48,3
+392,8470,2025-08-21 01:55:53.387968,Australia,Accessory,Setup,High,Chat,60,Open,16.77,4,2
+393,15608,2026-04-05 01:55:53.387968,Australia,Accessory,Performance,Medium,Chat,443,In Progress,92.88,48,2
+394,19668,2026-05-14 19:55:53.387968,New Zealand,Accessory,Connectivity,Low,Web,359,Open,15.71,8,1
+395,41627,2025-07-15 08:55:53.387968,New Zealand,Laptop,Performance,Low,Chat,41,Closed,25.99,48,1
+396,10020,2026-08-24 12:55:53.387968,New Zealand,Accessory,Hardware Issue,Critical,Chat,332,In Progress,59.89,4,2
+397,25069,2025-11-25 03:55:53.387968,Indonesia,Printer,Software Issue,High,Email,271,In Progress,88.05,4,5
+398,31148,2026-05-05 06:55:53.387968,New Zealand,Accessory,Setup,Low,Phone,276,Open,32.45,24,4
+399,38146,2025-12-26 13:55:53.387968,Malaysia,Printer,Hardware Issue,Critical,WhatsApp,309,Closed,5.09,8,2
+400,15288,2025-09-03 04:55:53.387968,Philippines,Printer,Software Issue,High,Phone,403,Resolved,18.18,4,1
+401,18951,2025-02-13 05:55:53.387968,Australia,Laptop,Performance,High,Chat,93,Resolved,10.34,8,3
+402,40673,2024-11-10 21:55:53.387968,Singapore,Printer,Software Issue,Critical,Chat,174,Resolved,55.19,4,5
+403,18649,2026-01-20 11:55:53.387968,New Zealand,Printer,Performance,High,WhatsApp,499,Closed,33.70,4,1
+404,40426,2025-08-04 14:55:53.387968,Philippines,Printer,Hardware Issue,Critical,WhatsApp,74,Open,3.79,8,4
+405,26506,2025-01-18 09:55:53.387968,Singapore,Printer,Setup,Critical,Web,243,Closed,77.14,24,1
+406,16166,2025-06-05 23:55:53.387968,India,Accessory,Setup,High,Web,248,Open,15.46,48,4
+407,37160,2025-01-08 12:55:53.387968,Malaysia,Desktop,Software Issue,High,WhatsApp,281,In Progress,26.30,24,4
+408,34422,2025-06-27 04:55:53.387968,Indonesia,Accessory,Setup,High,Web,349,Closed,81.53,4,2
+409,31052,2026-07-22 15:55:53.387968,Singapore,Monitor,Performance,Critical,Email,467,Resolved,66.78,4,2
+410,17712,2026-08-29 22:55:53.387968,India,Printer,Hardware Issue,Low,Web,72,In Progress,68.79,8,1
+411,13155,2025-09-24 08:55:53.387968,Indonesia,Desktop,Setup,High,WhatsApp,11,Resolved,28.62,24,5
+412,49504,2025-08-05 05:55:53.387968,India,Desktop,Billing,Low,Web,213,In Progress,7.53,48,1
+413,3093,2026-06-22 05:55:53.387968,India,Laptop,Billing,High,Web,112,Closed,6.21,48,4
+414,43032,2025-07-03 01:55:53.387968,India,Desktop,Connectivity,Low,Web,76,Open,91.54,8,3
+415,21328,2025-08-23 05:55:53.387968,Indonesia,Accessory,Connectivity,Critical,Chat,123,Open,53.72,24,2
+416,47318,2026-07-23 18:55:53.387968,Indonesia,Printer,Software Issue,Critical,Phone,380,Closed,90.32,24,2
+417,13975,2025-01-03 03:55:53.387968,Singapore,Laptop,Connectivity,High,Web,161,In Progress,58.38,4,4
+418,21421,2026-03-27 22:55:53.387968,Australia,Accessory,Hardware Issue,Critical,Phone,300,Closed,9.83,4,2
+419,30201,2025-12-04 02:55:53.387968,Australia,Accessory,Performance,Medium,Email,450,In Progress,5.61,48,2
+420,3792,2026-05-20 07:55:53.387968,Indonesia,Monitor,Connectivity,High,Web,410,Open,65.04,4,2
+421,13039,2026-07-10 01:55:53.387968,Singapore,Monitor,Performance,Critical,WhatsApp,409,Resolved,93.86,24,1
+422,17446,2024-10-22 17:55:53.387968,Indonesia,Accessory,Connectivity,Critical,Phone,356,Closed,85.22,48,1
+423,35501,2026-09-08 21:55:53.387968,Australia,Accessory,Performance,Medium,WhatsApp,139,Closed,37.64,48,3
+424,6355,2025-11-13 13:55:53.387968,Australia,Desktop,Software Issue,Low,Chat,141,Resolved,4.94,8,3
+425,25342,2025-08-13 06:55:53.387968,Indonesia,Printer,Hardware Issue,Low,Chat,466,Open,31.33,8,2
+426,3993,2025-03-19 10:55:53.387968,Indonesia,Desktop,Software Issue,High,WhatsApp,494,In Progress,25.19,24,2
+427,8910,2026-09-07 11:55:53.387968,Australia,Desktop,Hardware Issue,Critical,Phone,439,In Progress,54.73,48,3
+428,23692,2026-06-08 07:55:53.387968,Indonesia,Desktop,Billing,Medium,Chat,286,Resolved,17.20,4,2
+429,34076,2026-01-27 16:55:53.387968,Australia,Printer,Connectivity,Medium,Web,81,Open,29.21,48,5
+430,26568,2025-06-02 08:55:53.387968,Philippines,Laptop,Setup,Medium,Chat,211,Resolved,46.55,8,2
+431,9803,2026-07-24 08:55:53.387968,India,Printer,Hardware Issue,Low,Email,385,Closed,43.00,48,5
+432,28833,2025-03-12 15:55:53.387968,Malaysia,Desktop,Hardware Issue,Critical,Web,198,In Progress,82.32,4,3
+433,38809,2025-01-16 06:55:53.387968,Singapore,Printer,Setup,High,Email,197,Closed,3.89,48,1
+434,5153,2026-06-21 14:55:53.387968,Malaysia,Laptop,Connectivity,Low,Phone,194,Open,26.08,48,4
+435,29661,2026-04-26 23:55:53.387968,India,Desktop,Connectivity,High,Web,372,Resolved,50.60,48,5
+436,1435,2025-10-08 06:55:53.387968,Australia,Laptop,Performance,Medium,Chat,431,Closed,67.74,4,5
+437,17876,2025-04-26 01:55:53.387968,Philippines,Desktop,Billing,Medium,Chat,167,Resolved,49.28,4,4
+438,27495,2025-10-20 07:55:53.387968,New Zealand,Desktop,Connectivity,High,Email,56,Open,86.23,48,4
+439,15884,2026-04-10 00:55:53.387968,Philippines,Laptop,Performance,High,Chat,208,Closed,26.62,8,2
+440,18442,2025-04-19 19:55:53.387968,India,Monitor,Billing,High,Web,91,Open,93.15,4,3
+441,21621,2025-07-03 17:55:53.387968,India,Printer,Hardware Issue,Medium,Email,454,Open,79.22,8,4
+442,43329,2025-06-01 22:55:53.387968,India,Desktop,Hardware Issue,Medium,Web,136,Open,58.60,8,3
+443,23983,2026-02-23 13:55:53.387968,India,Desktop,Software Issue,Low,Phone,338,Closed,47.22,4,1
+444,9744,2024-12-10 01:55:53.387968,India,Laptop,Billing,Medium,Email,7,Closed,57.17,4,1
+445,24285,2025-03-13 05:55:53.387968,Indonesia,Laptop,Software Issue,Low,WhatsApp,134,In Progress,40.87,24,3
+446,2985,2025-10-13 10:55:53.387968,India,Monitor,Hardware Issue,Medium,WhatsApp,99,Closed,33.42,8,5
+447,35838,2026-06-01 13:55:53.387968,Philippines,Laptop,Setup,High,Email,134,Closed,52.93,4,4
+448,45048,2025-12-15 18:55:53.387968,Malaysia,Monitor,Performance,Low,WhatsApp,178,Open,19.14,4,3
+449,13519,2025-11-14 18:55:53.387968,India,Desktop,Setup,High,WhatsApp,433,Closed,26.52,48,3
+450,23450,2025-02-27 12:55:53.387968,Philippines,Accessory,Software Issue,Critical,Chat,43,Resolved,60.41,8,2
+451,579,2026-06-06 11:55:53.387968,Australia,Printer,Software Issue,Medium,Phone,285,Open,15.96,48,5
+452,38473,2025-10-10 15:55:53.387968,Indonesia,Desktop,Software Issue,High,WhatsApp,448,Open,93.87,4,5
+453,2115,2026-06-15 22:55:53.387968,Malaysia,Monitor,Hardware Issue,High,Email,240,Closed,33.50,24,5
+454,27141,2025-07-28 19:55:53.387968,Indonesia,Accessory,Performance,High,Email,452,Resolved,31.42,24,1
+455,35379,2024-11-07 18:55:53.387968,Indonesia,Printer,Setup,Low,Web,89,Resolved,20.07,48,5
+456,14719,2024-11-22 17:55:53.387968,Malaysia,Accessory,Software Issue,Medium,Phone,138,Open,19.21,8,2
+457,42444,2025-10-27 04:55:53.387968,Malaysia,Accessory,Software Issue,High,Web,475,In Progress,53.57,8,4
+458,34770,2026-06-05 05:55:53.387968,Singapore,Laptop,Hardware Issue,Low,WhatsApp,159,In Progress,72.81,48,1
+459,26299,2026-05-23 18:55:53.387968,Singapore,Monitor,Hardware Issue,High,WhatsApp,122,Open,79.88,8,1
+460,45621,2025-03-28 17:55:53.387968,Singapore,Printer,Performance,Critical,Email,392,In Progress,42.21,24,1
+461,7894,2026-07-15 04:55:53.387968,Malaysia,Laptop,Setup,Low,Phone,420,In Progress,66.75,4,2
+462,6544,2025-02-27 16:55:53.387968,Indonesia,Accessory,Software Issue,Critical,Email,70,Closed,16.14,24,3
+463,34595,2024-10-11 04:55:53.387968,Singapore,Printer,Hardware Issue,High,WhatsApp,347,In Progress,76.15,8,1
+464,18298,2026-01-22 10:55:53.387968,Singapore,Monitor,Connectivity,High,Phone,68,In Progress,39.61,48,3
+465,48682,2025-02-27 12:55:53.387968,Philippines,Laptop,Setup,Medium,Web,80,Resolved,42.98,4,4
+466,47137,2024-10-11 11:55:53.387968,Singapore,Accessory,Billing,Low,WhatsApp,55,In Progress,87.44,24,2
+467,10453,2025-04-17 21:55:53.387968,Indonesia,Printer,Performance,Critical,Phone,98,In Progress,61.55,48,3
+468,32379,2024-12-17 17:55:53.387968,New Zealand,Desktop,Performance,Medium,Web,308,Closed,89.77,24,5
+469,17613,2025-01-04 06:55:53.387968,Singapore,Monitor,Connectivity,Low,Chat,385,Closed,34.31,24,1
+470,13028,2025-01-22 14:55:53.387968,Singapore,Desktop,Performance,Critical,Chat,435,Resolved,8.21,24,2
+471,31555,2024-11-02 05:55:53.387968,Indonesia,Monitor,Setup,Critical,Phone,387,Resolved,61.37,8,1
+472,3194,2026-06-17 06:55:53.387968,Philippines,Desktop,Connectivity,Low,Web,35,Open,75.76,24,5
+473,16220,2026-01-16 06:55:53.387968,India,Printer,Connectivity,Medium,Phone,160,Resolved,58.90,8,2
+474,15649,2026-05-17 19:55:53.387968,Philippines,Monitor,Performance,High,Email,263,In Progress,43.35,24,5
+475,7234,2026-04-17 06:55:53.387968,Australia,Desktop,Connectivity,High,Email,34,Closed,43.95,48,1
+476,27611,2026-07-29 05:55:53.387968,Australia,Desktop,Setup,Critical,WhatsApp,177,Open,26.98,24,3
+477,8200,2026-03-26 05:55:53.387968,Australia,Printer,Connectivity,Medium,Email,161,In Progress,62.22,8,4
+478,26181,2025-11-07 16:55:53.387968,Australia,Accessory,Billing,Low,WhatsApp,167,Closed,16.23,24,2
+479,6949,2025-01-10 04:55:53.387968,New Zealand,Accessory,Billing,Medium,Chat,137,Resolved,31.16,8,2
+480,24670,2026-06-12 20:55:53.387968,Philippines,Desktop,Setup,Medium,Web,473,In Progress,80.13,24,4
+481,18566,2025-11-29 23:55:53.387968,New Zealand,Accessory,Hardware Issue,High,Chat,471,Open,78.21,8,1
+482,45689,2026-09-17 07:55:53.387968,Singapore,Monitor,Setup,Low,Phone,21,Closed,62.73,4,2
+483,15759,2025-04-09 19:55:53.387968,Malaysia,Desktop,Setup,Critical,Chat,311,Closed,27.91,48,5
+484,14074,2026-08-31 15:55:53.387968,Singapore,Laptop,Hardware Issue,Medium,Web,53,In Progress,46.65,8,1
+485,46498,2025-05-04 20:55:53.387968,India,Laptop,Hardware Issue,Critical,Phone,48,In Progress,47.08,4,2
+486,8065,2025-07-23 20:55:53.387968,Philippines,Laptop,Software Issue,Critical,Phone,466,In Progress,59.72,24,1
+487,2743,2025-12-16 01:55:53.387968,Indonesia,Printer,Hardware Issue,Medium,WhatsApp,292,Closed,95.86,4,5
+488,15135,2024-12-25 00:55:53.387968,Australia,Monitor,Software Issue,Low,WhatsApp,249,Resolved,35.60,4,1
+489,47791,2026-06-21 09:55:53.387968,Indonesia,Printer,Billing,Low,Phone,346,Open,76.09,4,1
+490,15650,2024-10-10 07:55:53.387968,Malaysia,Printer,Connectivity,Medium,Web,210,Open,53.52,4,2
+491,8389,2025-12-16 15:55:53.387968,Singapore,Desktop,Connectivity,Medium,Chat,464,Closed,36.63,8,5
+492,14397,2025-08-30 00:55:53.387968,Malaysia,Printer,Hardware Issue,High,WhatsApp,64,Resolved,9.30,24,2
+493,1940,2026-05-12 09:55:53.387968,Malaysia,Monitor,Performance,Low,Phone,424,Closed,44.65,8,3
+494,40970,2026-02-09 02:55:53.387968,India,Accessory,Software Issue,Low,Phone,161,Closed,60.38,24,3
+495,10041,2024-10-30 23:55:53.387968,New Zealand,Printer,Performance,High,Email,490,Resolved,19.37,48,5
+496,19536,2025-09-09 09:55:53.387968,Philippines,Monitor,Hardware Issue,High,Web,72,Open,79.56,4,4
+497,10371,2025-10-21 10:55:53.387968,New Zealand,Accessory,Connectivity,Medium,Web,382,In Progress,75.37,4,5
+498,1155,2025-12-08 20:55:53.387968,Philippines,Printer,Performance,Low,Phone,444,Closed,63.62,24,4
+499,18752,2024-09-21 11:55:53.387968,Indonesia,Printer,Hardware Issue,Low,Web,211,Resolved,68.30,48,4
+500,3861,2026-09-09 05:55:53.387968,India,Printer,Setup,Critical,Web,397,Open,60.63,8,4
+501,40968,2025-02-25 06:55:53.387968,Australia,Accessory,Hardware Issue,Medium,WhatsApp,425,In Progress,88.05,4,3
+502,36411,2026-01-11 14:55:53.387968,New Zealand,Laptop,Billing,Critical,WhatsApp,312,Closed,1.72,8,3
+503,45931,2026-08-07 19:55:53.387968,Singapore,Printer,Hardware Issue,Medium,Web,359,Resolved,61.88,4,2
+504,39881,2026-02-23 14:55:53.387968,Australia,Desktop,Setup,Critical,WhatsApp,198,Open,92.05,4,3
+505,21147,2025-10-19 08:55:53.387968,New Zealand,Laptop,Connectivity,High,Web,331,Open,86.93,48,5
+506,20433,2025-09-25 04:55:53.387968,New Zealand,Printer,Setup,Medium,Web,180,Closed,77.82,48,4
+507,37552,2025-05-31 06:55:53.387968,Australia,Monitor,Billing,Critical,WhatsApp,379,In Progress,75.62,8,1
+508,42495,2025-01-13 22:55:53.387968,Philippines,Desktop,Software Issue,Critical,WhatsApp,75,Open,7.43,24,2
+509,34783,2024-10-27 20:55:53.387968,India,Accessory,Setup,Critical,Email,62,Resolved,37.26,8,4
+510,23188,2024-12-30 12:55:53.387968,Philippines,Accessory,Performance,Low,Web,386,Resolved,92.49,48,5
+511,34130,2025-12-20 22:55:53.387968,Singapore,Printer,Software Issue,Low,WhatsApp,92,Resolved,17.57,4,4
+512,11954,2025-03-07 15:55:53.387968,Australia,Monitor,Connectivity,High,Email,465,Closed,41.31,48,1
+513,20769,2026-06-26 00:55:53.387968,India,Printer,Software Issue,Medium,Web,200,Open,3.22,4,5
+514,32861,2026-04-24 20:55:53.387968,New Zealand,Monitor,Connectivity,Medium,Phone,477,Resolved,41.23,8,3
+515,27375,2025-03-30 09:55:53.387968,New Zealand,Accessory,Billing,Medium,WhatsApp,223,In Progress,80.00,4,5
+516,43826,2024-10-17 10:55:53.387968,New Zealand,Desktop,Hardware Issue,High,WhatsApp,403,Resolved,92.44,8,1
+517,45542,2024-12-05 10:55:53.387968,Indonesia,Accessory,Billing,High,Email,175,Open,8.61,8,5
+518,36956,2024-11-27 01:55:53.387968,India,Accessory,Billing,Medium,Phone,382,Resolved,30.67,8,2
+519,7439,2025-10-14 07:55:53.387968,New Zealand,Accessory,Billing,Medium,Phone,395,Closed,15.26,8,5
+520,6743,2026-02-06 00:55:53.387968,Malaysia,Desktop,Hardware Issue,High,Chat,248,Resolved,85.18,24,5
+521,36982,2026-08-29 06:55:53.387968,Australia,Accessory,Performance,High,WhatsApp,305,Closed,45.38,48,5
+522,39212,2025-12-21 00:55:53.387968,Philippines,Accessory,Performance,Medium,Phone,152,Open,85.11,48,2
+523,21565,2025-03-12 20:55:53.387968,Australia,Printer,Software Issue,Critical,WhatsApp,371,Open,90.35,4,2
+524,49014,2024-11-02 08:55:53.387968,Malaysia,Desktop,Setup,Low,Web,451,Open,21.52,8,5
+525,12051,2025-11-19 14:55:53.387968,Malaysia,Monitor,Setup,Critical,Chat,362,In Progress,8.88,4,5
+526,13276,2025-04-04 02:55:53.387968,Singapore,Printer,Software Issue,Critical,Phone,318,Resolved,50.74,48,2
+527,49527,2025-03-27 12:55:53.387968,Malaysia,Accessory,Connectivity,Low,WhatsApp,130,In Progress,6.21,48,3
+528,23668,2025-11-20 20:55:53.387968,Singapore,Printer,Connectivity,Critical,WhatsApp,109,Closed,78.15,4,2
+529,11218,2025-09-07 20:55:53.387968,Singapore,Accessory,Performance,Medium,Web,403,Resolved,72.35,48,4
+530,26812,2026-02-15 17:55:53.387968,New Zealand,Accessory,Software Issue,Low,WhatsApp,405,Closed,12.59,8,1
+531,49555,2025-08-23 00:55:53.387968,Malaysia,Monitor,Performance,Medium,Phone,377,Resolved,51.27,24,2
+532,35919,2025-09-19 20:55:53.387968,India,Printer,Connectivity,Critical,Phone,51,Open,68.29,4,2
+533,23156,2025-07-24 13:55:53.387968,Australia,Monitor,Billing,Medium,Email,193,Closed,8.37,8,5
+534,47049,2025-11-03 00:55:53.387968,Australia,Accessory,Billing,Low,Chat,466,Closed,33.69,8,5
+535,32458,2025-12-19 15:55:53.387968,India,Desktop,Connectivity,Medium,Chat,66,Open,45.50,8,2
+536,31289,2025-07-26 09:55:53.387968,Singapore,Printer,Connectivity,High,WhatsApp,236,Open,22.67,24,2
+537,32629,2025-08-13 21:55:53.387968,Australia,Laptop,Performance,Medium,Web,342,Resolved,1.02,24,5
+538,3070,2025-11-03 10:55:53.387968,New Zealand,Printer,Hardware Issue,Critical,Web,459,Open,85.59,8,2
+539,45132,2025-01-06 22:55:53.387968,Indonesia,Laptop,Billing,Medium,Phone,193,Open,70.65,24,5
+540,38917,2025-03-22 23:55:53.387968,Malaysia,Laptop,Connectivity,Low,Chat,435,Resolved,27.37,48,1
+541,27168,2026-07-25 22:55:53.387968,Australia,Laptop,Software Issue,High,Email,498,Open,42.36,24,3
+542,20245,2026-09-12 11:55:53.387968,Indonesia,Monitor,Hardware Issue,High,Web,391,Resolved,21.30,48,3
+543,43152,2024-11-21 08:55:53.387968,Philippines,Accessory,Connectivity,Critical,Phone,124,Open,92.88,48,1
+544,5260,2025-09-20 07:55:53.387968,Singapore,Laptop,Setup,Critical,Web,44,Open,39.07,8,1
+545,33262,2024-12-04 06:55:53.387968,India,Accessory,Performance,High,Web,366,In Progress,50.21,48,3
+546,5140,2025-12-31 13:55:53.387968,New Zealand,Printer,Billing,High,WhatsApp,61,Open,22.50,24,3
+547,20959,2025-08-02 16:55:53.387968,Philippines,Laptop,Hardware Issue,Medium,Email,325,In Progress,37.03,8,2
+548,27600,2025-04-17 03:55:53.387968,India,Accessory,Connectivity,Critical,Phone,276,Resolved,62.32,24,1
+549,4185,2026-08-16 22:55:53.387968,Philippines,Desktop,Setup,High,WhatsApp,141,Resolved,37.15,48,3
+550,30746,2025-08-28 10:55:53.387968,Singapore,Printer,Billing,High,Chat,89,In Progress,64.13,4,2
+551,15366,2026-05-15 10:55:53.387968,Australia,Printer,Connectivity,High,Phone,310,Closed,10.40,8,1
+552,32327,2026-07-14 14:55:53.387968,Indonesia,Printer,Hardware Issue,Medium,Phone,210,Closed,52.73,48,3
+553,23949,2025-03-12 04:55:53.387968,Malaysia,Laptop,Billing,High,Email,420,Open,90.49,48,1
+554,13835,2025-04-15 02:55:53.387968,Philippines,Printer,Connectivity,Critical,Web,463,Resolved,4.31,24,4
+555,15409,2025-05-09 14:55:53.387968,Malaysia,Accessory,Hardware Issue,Medium,Phone,224,Open,12.59,4,1
+556,6560,2026-06-15 11:55:53.387968,India,Printer,Billing,Low,WhatsApp,131,Closed,34.58,8,5
+557,11291,2025-06-07 14:55:53.387968,Indonesia,Accessory,Performance,Critical,Email,497,Closed,30.03,48,3
+558,31939,2025-09-27 05:55:53.387968,Indonesia,Printer,Connectivity,Low,Chat,297,Closed,43.74,8,1
+559,2313,2025-08-05 10:55:53.387968,Philippines,Laptop,Setup,Low,Chat,376,Closed,81.01,48,2
+560,12730,2025-07-27 10:55:53.387968,Philippines,Laptop,Hardware Issue,Critical,Web,153,Open,16.97,48,5
+561,40849,2026-07-26 22:55:53.387968,Indonesia,Monitor,Connectivity,Critical,Chat,381,Open,14.58,4,5
+562,27667,2025-12-29 23:55:53.387968,India,Desktop,Performance,Low,WhatsApp,494,Resolved,91.59,4,2
+563,12008,2025-12-26 20:55:53.387968,Australia,Monitor,Connectivity,Critical,Phone,87,Open,29.46,48,4
+564,12582,2026-07-05 15:55:53.387968,Philippines,Printer,Connectivity,Medium,Email,351,In Progress,87.28,4,4
+565,48299,2025-09-07 03:55:53.387968,India,Laptop,Billing,Low,Email,415,Resolved,53.73,24,3
+566,33170,2025-03-08 03:55:53.387968,Malaysia,Laptop,Billing,Critical,Email,347,In Progress,10.70,24,5
+567,10195,2026-01-07 04:55:53.387968,Singapore,Desktop,Setup,Low,Email,110,Closed,25.83,8,5
+568,5532,2025-02-10 07:55:53.387968,New Zealand,Monitor,Connectivity,Critical,Email,43,Closed,29.30,8,2
+569,36910,2024-11-09 11:55:53.387968,Australia,Accessory,Connectivity,Critical,Chat,348,In Progress,47.14,48,5
+570,23346,2026-05-20 19:55:53.387968,Australia,Accessory,Hardware Issue,Low,Chat,311,Closed,44.56,8,2
+571,9689,2024-11-12 05:55:53.387968,Philippines,Desktop,Billing,High,Web,261,Closed,23.57,4,4
+572,5565,2026-07-26 17:55:53.387968,Singapore,Monitor,Hardware Issue,Low,Chat,288,Resolved,48.30,4,3
+573,20154,2025-05-10 03:55:53.387968,Australia,Monitor,Software Issue,Medium,WhatsApp,126,In Progress,25.97,4,1
+574,37508,2026-04-30 21:55:53.387968,New Zealand,Accessory,Software Issue,High,Chat,108,Resolved,52.54,4,3
+575,1100,2026-07-16 18:55:53.387968,Malaysia,Desktop,Connectivity,High,Email,240,Resolved,90.23,24,4
+576,29927,2025-07-17 18:55:53.387968,Malaysia,Printer,Billing,High,WhatsApp,226,In Progress,27.93,4,5
+577,46179,2025-08-26 11:55:53.387968,Singapore,Desktop,Software Issue,Critical,Chat,462,In Progress,76.20,24,3
+578,43974,2025-12-11 17:55:53.387968,Malaysia,Printer,Hardware Issue,High,Email,162,Closed,66.17,24,1
+579,27318,2024-11-27 16:55:53.387968,Philippines,Printer,Billing,Medium,Chat,273,Closed,48.86,8,2
+580,12227,2026-01-21 23:55:53.387968,Indonesia,Accessory,Hardware Issue,Critical,Email,370,Resolved,91.00,4,3
+581,40876,2025-12-19 13:55:53.387968,Indonesia,Laptop,Setup,Critical,WhatsApp,168,In Progress,15.08,4,2
+582,15709,2025-01-06 09:55:53.387968,Indonesia,Accessory,Connectivity,Low,Email,72,In Progress,68.84,8,4
+583,35082,2026-02-21 23:55:53.387968,Malaysia,Monitor,Software Issue,Medium,Web,61,Open,54.69,24,4
+584,13347,2025-07-31 08:55:53.387968,Australia,Desktop,Hardware Issue,High,Chat,435,Open,48.10,4,3
+585,38776,2024-11-30 04:55:53.387968,India,Accessory,Performance,Critical,Phone,241,Open,7.00,24,3
+586,34641,2025-01-11 03:55:53.387968,Australia,Desktop,Software Issue,Low,Chat,475,Closed,5.54,48,3
+587,24232,2026-06-15 16:55:53.387968,Indonesia,Accessory,Performance,Low,Chat,478,Open,34.10,48,5
+588,25023,2026-02-03 13:55:53.387968,India,Monitor,Setup,Low,Web,310,Open,57.93,48,5
+589,41085,2024-12-14 15:55:53.387968,New Zealand,Desktop,Connectivity,Low,Phone,282,Open,27.11,8,5
+590,6338,2025-11-23 12:55:53.387968,Indonesia,Accessory,Software Issue,Low,Phone,250,Closed,87.03,24,2
+591,25800,2026-09-09 10:55:53.387968,Singapore,Accessory,Billing,Critical,Web,484,Resolved,86.72,8,2
+592,31415,2026-03-08 22:55:53.387968,Singapore,Accessory,Connectivity,High,Email,454,Resolved,64.62,4,2
+593,42034,2025-12-03 18:55:53.387968,Malaysia,Desktop,Setup,High,Email,157,Resolved,95.79,48,3
+594,6391,2025-11-01 08:55:53.387968,Australia,Monitor,Hardware Issue,Low,WhatsApp,317,Open,31.43,48,1
+595,5284,2026-08-10 02:55:53.387968,New Zealand,Printer,Billing,Critical,Email,423,Open,29.90,8,4
+596,16024,2026-04-28 23:55:53.387968,Singapore,Desktop,Performance,High,WhatsApp,289,Closed,35.21,4,2
+597,752,2025-01-20 01:55:53.387968,Indonesia,Monitor,Billing,High,Phone,457,Closed,7.31,8,5
+598,15907,2025-09-18 13:55:53.387968,Philippines,Desktop,Connectivity,Medium,Web,64,Closed,85.96,48,4
+599,35532,2026-02-23 09:55:53.387968,Singapore,Monitor,Software Issue,Critical,Web,399,Resolved,10.92,48,1
+600,21828,2026-05-20 04:55:53.387968,India,Printer,Billing,High,WhatsApp,329,In Progress,89.12,24,4
+601,40613,2026-06-27 03:55:53.387968,Philippines,Monitor,Connectivity,High,Phone,129,Closed,48.72,24,3
+602,31193,2026-08-12 07:55:53.387968,Indonesia,Desktop,Connectivity,Low,Phone,403,Closed,81.98,8,1
+603,21440,2026-06-09 16:55:53.387968,India,Printer,Connectivity,Low,Chat,123,Closed,22.65,8,5
+604,12026,2024-12-17 00:55:53.387968,India,Laptop,Performance,Low,Web,400,Closed,74.22,8,2
+605,13825,2025-12-18 11:55:53.387968,Malaysia,Desktop,Software Issue,Medium,Phone,412,Open,28.24,24,4
+606,31146,2025-01-31 08:55:53.387968,Australia,Monitor,Connectivity,Critical,Chat,205,Resolved,55.10,8,2
+607,46005,2025-10-29 05:55:53.387968,India,Desktop,Hardware Issue,High,Web,92,Open,68.33,24,3
+608,31507,2025-10-03 18:55:53.387968,New Zealand,Monitor,Connectivity,High,Phone,152,Resolved,41.11,4,1
+609,34312,2024-11-29 15:55:53.387968,Philippines,Laptop,Connectivity,High,Email,422,In Progress,80.30,48,5
+610,30041,2024-10-20 03:55:53.387968,Singapore,Monitor,Setup,High,Phone,294,Open,8.60,8,2
+611,28447,2024-12-13 00:55:53.387968,New Zealand,Monitor,Billing,Medium,Phone,237,Resolved,48.90,24,1
+612,16293,2025-03-10 21:55:53.387968,Malaysia,Accessory,Performance,Critical,WhatsApp,397,Resolved,90.94,4,3
+613,34622,2026-01-10 09:55:53.387968,Philippines,Laptop,Billing,Low,Phone,62,In Progress,45.72,8,2
+614,1125,2026-07-23 09:55:53.387968,Malaysia,Desktop,Connectivity,Medium,Email,304,Closed,76.75,4,1
+615,31761,2026-01-12 00:55:53.387968,Malaysia,Printer,Performance,High,Web,361,Resolved,17.44,48,4
+616,49350,2026-02-03 11:55:53.387968,Indonesia,Monitor,Hardware Issue,High,Phone,131,In Progress,84.96,4,5
+617,28767,2026-02-27 00:55:53.387968,India,Printer,Software Issue,Low,WhatsApp,127,Open,48.85,48,3
+618,16129,2026-09-05 22:55:53.387968,Australia,Laptop,Billing,Critical,WhatsApp,233,In Progress,4.91,4,3
+619,27448,2025-01-15 21:55:53.387968,Malaysia,Printer,Setup,High,Chat,168,Open,50.40,4,4
+620,45788,2025-10-05 04:55:53.387968,India,Desktop,Software Issue,High,WhatsApp,235,Resolved,15.31,48,2
+621,24695,2025-10-06 17:55:53.387968,India,Desktop,Billing,Low,Phone,398,Open,75.12,8,1
+622,24380,2025-05-16 13:55:53.387968,Philippines,Printer,Setup,Low,Web,159,In Progress,63.12,48,1
+623,39303,2025-03-17 06:55:53.387968,Philippines,Desktop,Hardware Issue,High,Phone,297,Resolved,54.81,24,3
+624,16426,2025-12-06 19:55:53.387968,Malaysia,Desktop,Billing,Critical,WhatsApp,13,Closed,72.20,8,3
+625,44626,2025-05-23 23:55:53.387968,India,Laptop,Hardware Issue,Medium,WhatsApp,211,In Progress,73.40,4,1
+626,186,2026-01-08 10:55:53.387968,New Zealand,Printer,Billing,High,Phone,253,Open,52.00,48,3
+627,11205,2024-12-28 15:55:53.387968,Australia,Accessory,Hardware Issue,Medium,Email,270,Open,58.94,48,1
+628,3226,2025-10-16 16:55:53.387968,Philippines,Printer,Billing,High,Web,283,In Progress,50.84,24,2
+629,1536,2026-04-12 06:55:53.387968,Singapore,Desktop,Setup,Critical,Web,471,Open,67.22,24,5
+630,18287,2026-06-21 04:55:53.387968,Indonesia,Printer,Hardware Issue,High,Phone,334,Resolved,9.72,4,3
+631,2164,2026-09-18 07:55:53.387968,India,Printer,Performance,Critical,Web,74,Open,46.77,8,5
+632,14983,2026-05-06 02:55:53.387968,Indonesia,Printer,Hardware Issue,Low,Email,423,Resolved,76.43,4,2
+633,29576,2025-10-18 22:55:53.387968,Singapore,Printer,Connectivity,Low,Web,466,Open,15.92,24,3
+634,47932,2026-08-04 19:55:53.387968,Malaysia,Laptop,Setup,Medium,Chat,364,Resolved,61.58,48,4
+635,49594,2025-02-02 11:55:53.387968,New Zealand,Desktop,Connectivity,High,Email,428,In Progress,54.52,8,4
+636,20898,2025-08-22 12:55:53.387968,India,Printer,Connectivity,Low,Chat,384,Resolved,45.60,8,2
+637,10181,2026-07-26 02:55:53.387968,New Zealand,Monitor,Billing,Medium,Email,295,Resolved,66.22,8,2
+638,36433,2024-10-26 01:55:53.387968,Malaysia,Laptop,Billing,Low,Chat,456,Resolved,34.19,8,4
+639,12506,2025-10-17 17:55:53.387968,Indonesia,Desktop,Software Issue,Medium,Email,93,Closed,49.38,48,2
+640,40113,2025-03-31 08:55:53.387968,Australia,Laptop,Connectivity,Medium,Phone,351,In Progress,47.84,48,4
+641,2729,2025-04-12 20:55:53.387968,Indonesia,Laptop,Software Issue,Medium,Phone,490,Open,74.93,48,4
+642,33792,2026-01-30 23:55:53.387968,New Zealand,Accessory,Performance,High,Phone,371,Open,24.99,48,4
+643,31477,2025-03-14 14:55:53.387968,Indonesia,Laptop,Connectivity,Low,Web,104,Resolved,74.54,8,1
+644,14125,2026-09-08 19:55:53.387968,India,Printer,Performance,Critical,Email,200,Closed,10.36,8,3
+645,32758,2025-01-05 05:55:53.387968,Indonesia,Monitor,Performance,Low,Chat,225,Open,93.99,48,3
+646,10240,2026-02-26 11:55:53.387968,Philippines,Monitor,Software Issue,Low,Web,387,Open,94.94,24,3
+647,14008,2026-04-15 22:55:53.387968,Malaysia,Monitor,Software Issue,Critical,Email,61,Resolved,27.03,48,3
+648,13544,2026-08-09 00:55:53.387968,New Zealand,Laptop,Performance,Critical,WhatsApp,212,Resolved,44.96,4,2
+649,11676,2025-02-22 13:55:53.387968,Australia,Printer,Software Issue,Critical,Phone,120,Closed,75.30,8,4
+650,37811,2025-04-16 00:55:53.387968,New Zealand,Printer,Hardware Issue,Low,Chat,291,In Progress,27.22,4,5
+651,36605,2025-07-30 10:55:53.387968,Malaysia,Printer,Connectivity,High,Phone,157,Resolved,2.69,48,1
+652,5655,2026-05-25 10:55:53.387968,India,Printer,Setup,High,Email,268,Open,89.63,48,3
+653,37377,2026-04-18 17:55:53.387968,New Zealand,Desktop,Setup,Medium,Phone,314,Closed,49.54,24,3
+654,41658,2026-05-24 04:55:53.387968,Australia,Desktop,Billing,Medium,Email,238,Open,49.67,24,2
+655,29307,2024-10-31 01:55:53.387968,Philippines,Desktop,Billing,Medium,WhatsApp,348,Resolved,81.11,8,1
+656,65,2026-07-02 01:55:53.387968,New Zealand,Accessory,Performance,Medium,WhatsApp,477,Open,82.10,4,1
+657,38666,2025-08-02 04:55:53.387968,Singapore,Desktop,Software Issue,Medium,WhatsApp,27,Open,83.63,4,2
+658,34191,2026-05-25 09:55:53.387968,India,Monitor,Billing,Critical,Email,347,Open,24.01,48,4
+659,39988,2025-04-29 00:55:53.387968,India,Printer,Connectivity,Critical,Phone,364,Open,2.77,8,3
+660,22875,2026-01-24 01:55:53.387968,India,Accessory,Software Issue,Critical,Email,359,Open,69.58,8,5
+661,14639,2026-01-08 17:55:53.387968,New Zealand,Monitor,Performance,Medium,Web,356,In Progress,63.24,8,4
+662,2023,2026-06-26 09:55:53.387968,Indonesia,Monitor,Hardware Issue,High,Email,25,Resolved,6.75,4,1
+663,11949,2025-01-05 19:55:53.387968,Singapore,Desktop,Billing,Medium,WhatsApp,252,Closed,95.43,4,4
+664,7650,2026-03-09 12:55:53.387968,Malaysia,Laptop,Hardware Issue,High,WhatsApp,117,In Progress,36.78,8,4
+665,40475,2025-08-16 11:55:53.387968,Singapore,Desktop,Setup,High,Email,331,Closed,73.21,24,2
+666,40817,2025-06-25 06:55:53.387968,Singapore,Printer,Hardware Issue,High,Chat,12,In Progress,26.55,8,4
+667,15068,2024-10-29 20:55:53.387968,Australia,Accessory,Hardware Issue,High,Chat,398,Closed,36.03,24,5
+668,23898,2025-09-10 10:55:53.387968,Indonesia,Accessory,Billing,Low,Chat,154,Resolved,61.85,8,5
+669,27219,2024-12-12 21:55:53.387968,Australia,Monitor,Setup,Low,Phone,495,Resolved,42.42,4,1
+670,26039,2024-10-26 13:55:53.387968,Malaysia,Desktop,Setup,High,Chat,478,Closed,19.30,8,5
+671,23919,2024-10-10 10:55:53.387968,Indonesia,Monitor,Setup,Low,Phone,497,Closed,48.99,8,3
+672,41374,2026-08-08 01:55:53.387968,India,Desktop,Performance,Medium,Phone,70,Resolved,53.13,48,1
+673,47961,2026-01-08 14:55:53.387968,New Zealand,Printer,Setup,Low,Phone,99,Resolved,68.27,24,2
+674,13676,2025-03-11 12:55:53.387968,Indonesia,Printer,Hardware Issue,Medium,Email,167,Resolved,1.30,24,2
+675,30101,2026-05-04 23:55:53.387968,India,Laptop,Software Issue,Low,Web,276,In Progress,23.19,24,4
+676,36992,2026-05-20 17:55:53.387968,Malaysia,Accessory,Hardware Issue,High,Phone,152,Open,79.28,48,5
+677,47558,2025-06-07 21:55:53.387968,Philippines,Desktop,Billing,Low,WhatsApp,21,Closed,88.87,8,1
+678,24615,2025-05-30 18:55:53.387968,New Zealand,Laptop,Setup,Critical,Chat,290,Open,63.33,24,1
+679,12273,2025-01-08 04:55:53.387968,Singapore,Printer,Software Issue,Low,WhatsApp,174,In Progress,92.51,4,4
+680,42591,2025-07-28 09:55:53.387968,Philippines,Laptop,Hardware Issue,Low,Phone,178,Resolved,37.45,4,5
+681,12520,2025-01-11 20:55:53.387968,Australia,Accessory,Performance,Low,Phone,198,Resolved,40.65,24,3
+682,49050,2025-01-18 21:55:53.387968,Philippines,Monitor,Software Issue,Critical,WhatsApp,57,Open,64.98,8,3
+683,28853,2024-12-26 15:55:53.387968,Philippines,Desktop,Setup,Low,WhatsApp,161,Open,41.45,8,2
+684,49884,2025-01-12 21:55:53.387968,Singapore,Desktop,Performance,Medium,Web,290,In Progress,61.28,48,4
+685,3986,2025-01-21 12:55:53.387968,New Zealand,Printer,Performance,Critical,WhatsApp,358,Closed,11.26,4,5
+686,9846,2025-03-27 05:55:53.387968,India,Accessory,Billing,Critical,Chat,245,Closed,32.02,8,2
+687,1086,2025-01-10 23:55:53.387968,Indonesia,Printer,Connectivity,High,Email,378,In Progress,90.13,48,2
+688,3617,2025-02-09 18:55:53.387968,India,Monitor,Software Issue,Medium,Phone,190,Resolved,87.33,48,1
+689,23179,2024-11-27 18:55:53.387968,Indonesia,Printer,Performance,High,WhatsApp,206,Closed,21.90,48,2
+690,21750,2025-01-09 20:55:53.387968,Indonesia,Desktop,Setup,Critical,Chat,188,Resolved,30.03,24,5
+691,3235,2026-04-14 03:55:53.387968,Australia,Laptop,Performance,Critical,Chat,321,Open,72.66,24,1
+692,7019,2026-02-02 18:55:53.387968,Australia,Laptop,Performance,Low,Phone,450,Closed,41.99,8,5
+693,25587,2026-09-17 20:55:53.387968,Malaysia,Monitor,Billing,Low,Email,394,In Progress,58.46,8,3
+694,7646,2026-06-04 14:55:53.387968,Philippines,Accessory,Billing,Low,Email,168,Resolved,10.23,24,5
+695,40343,2024-09-25 13:55:53.387968,Singapore,Printer,Setup,Low,Chat,126,Open,26.15,24,2
+696,10933,2025-01-01 08:55:53.387968,Australia,Laptop,Setup,Medium,Phone,317,Closed,69.00,8,3
+697,43578,2026-05-05 00:55:53.387968,Malaysia,Printer,Hardware Issue,High,Email,79,In Progress,27.37,8,1
+698,27072,2025-01-15 19:55:53.387968,Indonesia,Monitor,Connectivity,Low,Email,192,Resolved,44.40,4,3
+699,11516,2025-07-08 11:55:53.387968,New Zealand,Printer,Billing,Low,Web,466,Open,21.42,48,4
+700,26031,2025-07-26 00:55:53.387968,Philippines,Laptop,Hardware Issue,Low,Web,30,Open,36.29,8,1
+701,45667,2026-09-04 21:55:53.387968,New Zealand,Printer,Billing,Medium,Email,298,In Progress,35.96,24,1
+702,422,2025-11-22 10:55:53.387968,Malaysia,Desktop,Billing,High,Email,51,Resolved,55.52,48,5
+703,25754,2026-06-28 07:55:53.387968,Philippines,Desktop,Setup,Critical,Phone,147,Closed,60.33,8,5
+704,30052,2025-08-27 10:55:53.387968,New Zealand,Printer,Hardware Issue,Low,Phone,353,Resolved,44.70,24,3
+705,44562,2026-08-10 16:55:53.387968,Australia,Monitor,Software Issue,Medium,Phone,228,Closed,50.67,24,2
+706,14082,2025-10-13 11:55:53.387968,Indonesia,Printer,Billing,Medium,WhatsApp,311,Resolved,95.39,24,2
+707,19229,2025-03-06 05:55:53.387968,Malaysia,Laptop,Billing,Critical,Web,276,Open,75.73,24,5
+708,47695,2026-02-19 04:55:53.387968,Malaysia,Laptop,Software Issue,Medium,Web,258,Open,95.00,8,1
+709,45153,2025-01-30 11:55:53.387968,Malaysia,Desktop,Software Issue,Low,Phone,338,Open,8.62,4,5
+710,15579,2025-03-14 21:55:53.387968,Philippines,Monitor,Performance,Low,Email,16,Open,68.05,8,3
+711,17156,2024-09-26 05:55:53.387968,Malaysia,Monitor,Performance,Medium,Web,425,Closed,26.12,8,1
+712,11688,2026-07-14 20:55:53.387968,India,Accessory,Software Issue,Low,Web,38,In Progress,1.89,48,4
+713,43665,2025-08-03 05:55:53.387968,New Zealand,Accessory,Software Issue,High,WhatsApp,112,Open,92.75,8,3
+714,37259,2026-01-14 14:55:53.387968,Singapore,Printer,Connectivity,Low,Chat,384,In Progress,13.82,24,2
+715,372,2026-07-27 06:55:53.387968,Singapore,Accessory,Software Issue,Critical,Email,405,In Progress,61.19,24,5
+716,39230,2025-10-02 17:55:53.387968,Philippines,Laptop,Performance,High,WhatsApp,286,Closed,55.52,8,5
+717,5551,2026-08-31 04:55:53.387968,Philippines,Accessory,Performance,Low,Phone,424,In Progress,79.64,8,1
+718,24134,2025-02-19 03:55:53.387968,Philippines,Desktop,Billing,High,Chat,356,Closed,22.76,48,5
+719,10159,2025-02-21 23:55:53.387968,Malaysia,Accessory,Setup,High,Phone,21,Resolved,55.27,24,2
+720,43677,2024-11-05 12:55:53.387968,Singapore,Desktop,Hardware Issue,Critical,WhatsApp,163,Closed,25.63,4,5
+721,48876,2025-05-14 03:55:53.387968,Indonesia,Accessory,Billing,High,WhatsApp,467,Closed,41.04,4,5
+722,14084,2026-01-10 21:55:53.387968,Philippines,Printer,Hardware Issue,High,Email,422,Closed,8.05,48,4
+723,11458,2024-12-29 15:55:53.387968,Philippines,Monitor,Connectivity,Critical,Chat,231,Closed,93.00,8,4
+724,21246,2026-02-08 10:55:53.387968,New Zealand,Laptop,Billing,High,Email,8,Closed,65.32,24,3
+725,48897,2026-04-26 23:55:53.387968,Indonesia,Accessory,Software Issue,High,WhatsApp,319,Closed,74.55,24,1
+726,39725,2026-01-06 04:55:53.387968,Singapore,Laptop,Hardware Issue,Medium,Chat,70,Closed,63.35,8,5
+727,20456,2025-01-06 09:55:53.387968,Australia,Desktop,Connectivity,Critical,Web,426,Resolved,33.23,4,1
+728,44943,2025-04-18 23:55:53.387968,Indonesia,Desktop,Billing,Medium,Phone,443,Open,25.72,24,2
+729,14975,2026-08-04 23:55:53.387968,New Zealand,Monitor,Performance,Medium,Phone,84,In Progress,74.15,48,2
+730,38406,2025-05-24 20:55:53.387968,India,Accessory,Connectivity,High,Web,378,Resolved,23.17,24,2
+731,117,2025-05-15 06:55:53.387968,Australia,Printer,Performance,Critical,Email,305,Closed,83.54,8,2
+732,460,2026-05-09 11:55:53.387968,Indonesia,Accessory,Setup,Medium,Chat,111,Closed,39.37,24,2
+733,21300,2024-10-15 01:55:53.387968,India,Printer,Connectivity,Medium,WhatsApp,7,Closed,55.63,8,4
+734,37876,2025-04-22 14:55:53.387968,Australia,Accessory,Billing,High,Email,50,Resolved,56.18,8,4
+735,32188,2025-06-24 21:55:53.387968,Malaysia,Desktop,Software Issue,Critical,Chat,408,In Progress,75.18,4,1
+736,5556,2024-11-10 02:55:53.387968,Philippines,Desktop,Connectivity,High,Web,310,Closed,20.97,48,4
+737,2113,2024-11-13 18:55:53.387968,Singapore,Monitor,Software Issue,Critical,Email,108,Closed,44.20,24,2
+738,48454,2025-11-02 22:55:53.387968,Malaysia,Monitor,Hardware Issue,Medium,Email,326,Open,72.87,24,3
+739,28515,2026-07-18 16:55:53.387968,Malaysia,Laptop,Performance,Low,Email,105,Resolved,51.46,4,1
+740,11667,2026-01-16 07:55:53.387968,Australia,Monitor,Performance,Critical,Email,61,Closed,1.53,8,4
+741,18698,2025-09-02 09:55:53.387968,New Zealand,Laptop,Connectivity,Critical,Email,157,Open,92.89,8,5
+742,32773,2025-06-11 11:55:53.387968,New Zealand,Desktop,Hardware Issue,Low,Web,433,Open,8.93,48,1
+743,49143,2025-04-22 13:55:53.387968,Indonesia,Desktop,Performance,Critical,Email,204,Open,77.89,8,2
+744,34371,2025-07-18 06:55:53.387968,New Zealand,Printer,Software Issue,High,Email,494,In Progress,42.55,24,1
+745,4496,2025-12-01 08:55:53.387968,Indonesia,Printer,Performance,High,Phone,156,Open,41.24,48,4
+746,1610,2025-08-19 05:55:53.387968,Singapore,Accessory,Setup,Medium,Web,292,Closed,64.56,4,1
+747,214,2026-01-14 15:55:53.387968,Indonesia,Printer,Performance,High,Email,132,Closed,5.90,24,3
+748,30055,2024-11-03 23:55:53.387968,Indonesia,Monitor,Hardware Issue,Medium,Email,216,In Progress,77.67,4,5
+749,20754,2025-05-28 03:55:53.387968,Singapore,Desktop,Performance,Low,WhatsApp,6,In Progress,21.87,4,5
+750,3882,2024-09-28 09:55:53.387968,Australia,Monitor,Setup,High,Chat,238,Open,49.71,8,5
+751,21217,2025-09-18 16:55:53.387968,Indonesia,Monitor,Setup,Critical,Chat,33,In Progress,90.36,24,2
+752,10607,2025-12-06 05:55:53.387968,New Zealand,Accessory,Connectivity,High,Chat,293,Open,21.91,48,1
+753,16706,2025-10-31 17:55:53.387968,Indonesia,Desktop,Billing,Medium,WhatsApp,309,Closed,24.96,4,3
+754,13753,2025-02-06 02:55:53.387968,Indonesia,Monitor,Software Issue,Low,Email,408,Resolved,7.18,48,1
+755,4724,2024-12-26 20:55:53.387968,Australia,Desktop,Billing,Medium,WhatsApp,396,Closed,7.44,8,3
+756,33840,2024-11-03 09:55:53.387968,Singapore,Accessory,Hardware Issue,Low,Web,463,Open,53.05,4,1
+757,49379,2026-07-29 20:55:53.387968,Singapore,Laptop,Hardware Issue,Medium,Chat,130,Resolved,27.52,48,1
+758,9059,2025-06-30 22:55:53.387968,Malaysia,Laptop,Setup,Critical,Phone,349,In Progress,78.26,8,2
+759,36199,2025-10-01 04:55:53.387968,Indonesia,Desktop,Connectivity,Medium,Web,312,Open,62.73,24,2
+760,14613,2025-09-15 20:55:53.387968,New Zealand,Printer,Performance,Critical,Email,329,Resolved,17.19,24,1
+761,30785,2026-02-25 10:55:53.387968,Australia,Laptop,Connectivity,Low,WhatsApp,229,In Progress,87.29,4,5
+762,6364,2026-01-14 11:55:53.387968,Philippines,Monitor,Billing,Medium,Email,299,In Progress,2.98,48,4
+763,35094,2025-08-10 00:55:53.387968,Singapore,Desktop,Performance,Critical,Phone,477,In Progress,29.73,4,1
+764,15446,2025-06-21 09:55:53.387968,New Zealand,Accessory,Setup,Medium,Chat,395,Closed,54.94,8,1
+765,17552,2024-10-19 21:55:53.387968,Singapore,Monitor,Hardware Issue,Medium,Email,257,Open,1.77,4,1
+766,48101,2025-12-27 21:55:53.387968,India,Desktop,Software Issue,Critical,Chat,444,In Progress,89.55,4,5
+767,7717,2026-06-10 16:55:53.387968,Malaysia,Accessory,Performance,Medium,WhatsApp,356,In Progress,23.29,48,4
+768,35312,2026-03-17 23:55:53.387968,Philippines,Desktop,Billing,Critical,Chat,299,Resolved,21.31,48,2
+769,31028,2025-06-02 15:55:53.387968,Indonesia,Monitor,Software Issue,Critical,Phone,240,In Progress,62.32,24,3
+770,6761,2026-04-10 15:55:53.387968,Singapore,Laptop,Software Issue,Critical,Email,493,Closed,70.63,4,3
+771,32685,2025-08-31 12:55:53.387968,India,Monitor,Connectivity,Critical,Email,98,In Progress,52.16,24,4
+772,34821,2025-02-03 22:55:53.387968,Philippines,Laptop,Hardware Issue,Critical,Phone,317,Resolved,87.89,48,2
+773,4827,2024-12-01 10:55:53.387968,Malaysia,Desktop,Hardware Issue,Low,Phone,28,Resolved,38.24,24,3
+774,38127,2026-09-17 20:55:53.387968,Philippines,Desktop,Software Issue,Low,Email,241,Open,72.49,4,1
+775,40753,2025-08-04 10:55:53.387968,Philippines,Desktop,Performance,Medium,Phone,294,In Progress,27.00,24,2
+776,8824,2025-02-10 17:55:53.387968,Philippines,Desktop,Software Issue,Low,Email,169,Resolved,47.19,24,1
+777,21726,2025-05-17 23:55:53.387968,New Zealand,Monitor,Performance,Medium,Phone,394,Open,75.51,8,4
+778,10986,2024-12-13 16:55:53.387968,New Zealand,Desktop,Connectivity,Low,WhatsApp,350,Open,92.81,8,4
+779,6371,2025-10-02 06:55:53.387968,Philippines,Laptop,Connectivity,Medium,Web,383,Open,18.21,24,3
+780,34234,2026-01-04 04:55:53.387968,Singapore,Monitor,Billing,High,Email,98,Open,69.36,4,3
+781,11503,2025-06-20 09:55:53.387968,New Zealand,Desktop,Performance,Medium,Web,471,Resolved,27.11,24,2
+782,46718,2025-12-22 20:55:53.387968,Indonesia,Laptop,Hardware Issue,Critical,WhatsApp,28,Resolved,52.37,4,2
+783,13103,2025-12-11 13:55:53.387968,Philippines,Printer,Software Issue,Low,Email,120,Resolved,17.34,24,1
+784,4630,2026-01-22 16:55:53.387968,Singapore,Printer,Setup,Medium,Chat,421,Open,65.66,24,1
+785,12134,2026-05-04 16:55:53.387968,Malaysia,Accessory,Hardware Issue,Low,Phone,115,In Progress,38.27,24,3
+786,15978,2025-04-12 12:55:53.387968,Philippines,Accessory,Billing,High,Chat,190,In Progress,67.56,24,5
+787,1444,2024-12-01 10:55:53.387968,Australia,Accessory,Setup,Critical,Chat,360,In Progress,95.10,4,1
+788,15083,2026-08-15 02:55:53.387968,Indonesia,Printer,Setup,Medium,Web,116,Closed,50.36,4,4
+789,26574,2026-07-09 22:55:53.387968,Australia,Desktop,Setup,Critical,Chat,297,Open,12.37,8,4
+790,8583,2026-09-13 03:55:53.387968,Australia,Printer,Performance,Low,Web,458,Open,35.88,8,4
+791,20941,2025-06-28 05:55:53.387968,India,Laptop,Connectivity,Low,Chat,43,Closed,83.03,48,3
+792,26667,2024-09-26 11:55:53.387968,Malaysia,Accessory,Setup,Medium,Email,351,Open,19.59,8,3
+793,11779,2024-12-10 03:55:53.387968,Singapore,Printer,Software Issue,Medium,WhatsApp,74,Open,12.37,8,4
+794,42326,2026-02-11 02:55:53.387968,New Zealand,Laptop,Hardware Issue,Medium,Web,371,Closed,19.05,48,4
+795,30772,2025-04-03 07:55:53.387968,Australia,Monitor,Connectivity,Low,Web,491,In Progress,50.81,8,1
+796,12745,2025-03-01 20:55:53.387968,Singapore,Accessory,Hardware Issue,High,Phone,69,Open,67.98,24,1
+797,35737,2024-09-26 03:55:53.387968,New Zealand,Desktop,Setup,Critical,Email,74,In Progress,82.58,8,4
+798,11947,2026-06-17 23:55:53.387968,Singapore,Laptop,Performance,High,WhatsApp,186,Closed,36.43,24,3
+799,38130,2026-01-14 07:55:53.387968,New Zealand,Desktop,Setup,Critical,Phone,48,Open,83.01,8,1
+800,46919,2026-02-17 11:55:53.387968,Philippines,Monitor,Hardware Issue,Critical,Phone,355,Resolved,37.63,8,1
+801,8793,2025-12-05 12:55:53.387968,New Zealand,Accessory,Hardware Issue,Medium,Web,425,Resolved,8.22,8,2
+802,49728,2025-05-14 03:55:53.387968,Singapore,Laptop,Performance,Medium,Chat,157,In Progress,45.41,4,1
+803,22596,2026-07-27 05:55:53.387968,Malaysia,Printer,Connectivity,Low,Chat,18,Open,82.65,24,5
+804,9433,2026-02-26 13:55:53.387968,Philippines,Accessory,Connectivity,Low,Email,313,In Progress,90.29,4,1
+805,34886,2026-07-03 03:55:53.387968,New Zealand,Monitor,Hardware Issue,Critical,Chat,382,Resolved,19.04,24,4
+806,37696,2025-08-04 16:55:53.387968,Malaysia,Laptop,Setup,Low,Chat,100,In Progress,66.96,4,5
+807,30358,2024-12-31 11:55:53.387968,Singapore,Desktop,Hardware Issue,Low,Chat,337,Closed,81.00,48,2
+808,43304,2025-09-23 03:55:53.387968,Indonesia,Accessory,Hardware Issue,Medium,Email,41,In Progress,64.55,48,4
+809,46918,2026-05-26 11:55:53.387968,Malaysia,Accessory,Connectivity,Critical,WhatsApp,45,In Progress,18.83,48,1
+810,28343,2025-12-05 09:55:53.387968,New Zealand,Printer,Connectivity,Critical,Web,322,Resolved,93.80,24,1
+811,11770,2024-12-16 20:55:53.387968,Singapore,Accessory,Billing,High,Email,445,Resolved,83.68,8,3
+812,25037,2026-08-12 13:55:53.387968,Singapore,Printer,Connectivity,High,WhatsApp,478,Closed,64.12,48,3
+813,14023,2025-05-31 07:55:53.387968,India,Laptop,Hardware Issue,Medium,Chat,168,Open,47.49,8,5
+814,8549,2025-09-27 19:55:53.387968,India,Accessory,Hardware Issue,Low,WhatsApp,396,In Progress,67.88,4,2
+815,46486,2026-06-28 12:55:53.387968,New Zealand,Desktop,Software Issue,Critical,Phone,97,In Progress,91.72,48,1
+816,28385,2026-03-23 23:55:53.387968,Malaysia,Accessory,Performance,High,Email,493,Closed,57.24,4,2
+817,41368,2025-05-11 09:55:53.387968,Philippines,Monitor,Connectivity,High,Web,233,Open,55.72,48,5
+818,18780,2024-11-03 08:55:53.387968,Malaysia,Laptop,Connectivity,Critical,Phone,214,Closed,3.65,48,5
+819,6689,2025-09-14 05:55:53.387968,Malaysia,Monitor,Connectivity,Low,Web,7,Resolved,6.42,4,1
+820,5354,2026-06-09 14:55:53.387968,Malaysia,Printer,Performance,Low,Phone,382,Open,35.22,4,5
+821,30722,2025-12-02 19:55:53.387968,Singapore,Accessory,Hardware Issue,High,Chat,64,Open,56.46,24,2
+822,46907,2025-12-20 08:55:53.387968,New Zealand,Accessory,Billing,Low,WhatsApp,84,Resolved,84.88,24,1
+823,38995,2026-07-01 08:55:53.387968,India,Printer,Performance,Critical,Phone,259,Closed,80.31,48,2
+824,21150,2026-05-19 03:55:53.387968,Australia,Desktop,Connectivity,Low,Email,175,Open,92.53,4,2
+825,22403,2024-09-22 15:55:53.387968,Australia,Accessory,Connectivity,Critical,WhatsApp,229,Open,8.61,8,2
+826,41859,2026-09-09 11:55:53.387968,Australia,Accessory,Software Issue,Critical,Web,100,Closed,7.20,4,3
+827,2984,2025-11-20 17:55:53.387968,Indonesia,Laptop,Billing,High,Chat,298,Open,13.08,48,3
+828,46394,2026-07-02 12:55:53.387968,Singapore,Monitor,Software Issue,High,Chat,335,In Progress,63.19,4,2
+829,37561,2025-04-15 02:55:53.387968,Singapore,Monitor,Performance,High,Web,197,Open,9.81,4,3
+830,11191,2024-12-28 21:55:53.387968,New Zealand,Monitor,Setup,Medium,Phone,277,In Progress,63.52,8,1
+831,45490,2026-08-02 00:55:53.387968,Australia,Laptop,Software Issue,Critical,Phone,431,Open,69.09,24,2
+832,36249,2025-09-19 00:55:53.387968,Australia,Laptop,Hardware Issue,Medium,Phone,497,In Progress,24.39,8,5
+833,39757,2024-12-31 08:55:53.387968,New Zealand,Printer,Setup,Critical,Email,4,Closed,1.83,8,4
+834,41407,2026-09-01 06:55:53.387968,India,Monitor,Connectivity,Low,Email,314,Closed,36.57,48,2
+835,6404,2025-03-17 12:55:53.387968,Indonesia,Accessory,Software Issue,Critical,Web,172,In Progress,63.79,48,2
+836,49525,2025-01-25 14:55:53.387968,Australia,Accessory,Setup,High,Phone,81,In Progress,9.67,4,3
+837,34805,2024-12-07 23:55:53.387968,Australia,Accessory,Hardware Issue,High,Web,214,In Progress,50.28,4,3
+838,49290,2025-03-21 07:55:53.387968,Singapore,Accessory,Connectivity,High,WhatsApp,157,In Progress,44.47,48,2
+839,47314,2025-05-01 13:55:53.387968,Philippines,Accessory,Software Issue,High,WhatsApp,215,Closed,81.29,48,3
+840,15916,2026-01-12 01:55:53.387968,Malaysia,Printer,Software Issue,Medium,WhatsApp,334,Resolved,64.77,48,1
+841,3420,2026-05-12 04:55:53.387968,Philippines,Accessory,Software Issue,Low,Web,248,In Progress,88.46,4,3
+842,24054,2025-04-13 11:55:53.387968,Australia,Desktop,Performance,High,Web,205,Closed,16.21,48,4
+843,42672,2026-04-09 06:55:53.387968,India,Accessory,Connectivity,Low,Chat,219,Closed,58.79,4,3
+844,11339,2025-05-15 09:55:53.387968,Singapore,Printer,Hardware Issue,Critical,Email,283,In Progress,3.10,8,2
+845,24737,2025-07-04 10:55:53.387968,Australia,Desktop,Software Issue,Medium,WhatsApp,317,In Progress,24.23,48,5
+846,29936,2025-04-07 09:55:53.387968,Malaysia,Monitor,Hardware Issue,Medium,Phone,132,In Progress,54.27,8,5
+847,3719,2024-10-09 16:55:53.387968,Philippines,Accessory,Performance,Low,Chat,457,In Progress,15.85,48,2
+848,24304,2025-09-04 04:55:53.387968,Philippines,Desktop,Billing,Medium,WhatsApp,3,Resolved,86.61,48,2
+849,7514,2025-06-19 19:55:53.387968,Australia,Accessory,Performance,High,Phone,45,In Progress,86.99,24,1
+850,24558,2025-06-06 12:55:53.387968,India,Laptop,Software Issue,High,Phone,109,Open,81.53,48,3
+851,19947,2024-12-07 14:55:53.387968,Malaysia,Printer,Billing,Low,Web,499,Resolved,49.86,24,3
+852,32082,2025-04-09 11:55:53.387968,Australia,Desktop,Connectivity,Critical,Email,66,Closed,15.59,48,3
+853,31359,2026-09-18 21:55:53.387968,Malaysia,Monitor,Billing,Medium,Chat,13,Closed,91.52,24,1
+854,14441,2025-12-26 22:55:53.387968,Indonesia,Desktop,Performance,High,Phone,379,Open,46.70,48,1
+855,37386,2025-05-10 07:55:53.387968,Australia,Monitor,Software Issue,High,Phone,427,In Progress,25.54,24,4
+856,41689,2025-09-12 01:55:53.387968,New Zealand,Accessory,Hardware Issue,Low,WhatsApp,18,Open,87.10,48,2
+857,17115,2026-08-03 07:55:53.387968,Australia,Printer,Hardware Issue,Low,Phone,74,Closed,78.82,48,3
+858,29212,2026-05-27 20:55:53.387968,Australia,Printer,Billing,High,WhatsApp,218,In Progress,24.66,4,4
+859,49163,2026-07-26 17:55:53.387968,Philippines,Printer,Connectivity,Low,WhatsApp,199,Resolved,43.31,48,5
+860,3321,2026-03-30 01:55:53.387968,Australia,Desktop,Hardware Issue,Critical,Email,54,Resolved,51.74,48,2
+861,23792,2025-10-09 07:55:53.387968,Philippines,Printer,Software Issue,High,WhatsApp,188,Open,93.15,24,3
+862,33119,2026-05-06 11:55:53.387968,Philippines,Printer,Performance,Low,Chat,387,In Progress,46.38,8,4
+863,25314,2026-09-14 15:55:53.387968,Singapore,Desktop,Setup,High,Phone,90,Closed,8.72,48,3
+864,15563,2025-02-09 04:55:53.387968,Philippines,Monitor,Hardware Issue,Critical,WhatsApp,199,In Progress,55.86,48,4
+865,34804,2025-08-17 05:55:53.387968,Singapore,Desktop,Software Issue,Critical,Phone,88,Open,38.62,8,1
+866,22178,2025-10-25 18:55:53.387968,Australia,Desktop,Billing,Critical,Chat,181,In Progress,35.22,48,1
+867,49650,2026-01-24 18:55:53.387968,India,Accessory,Billing,Low,WhatsApp,371,Closed,19.22,24,4
+868,23684,2025-11-29 06:55:53.387968,Philippines,Laptop,Setup,Medium,WhatsApp,260,In Progress,56.00,48,4
+869,3872,2026-02-14 11:55:53.387968,Malaysia,Laptop,Hardware Issue,Medium,Phone,8,Resolved,5.47,48,1
+870,15609,2026-06-05 13:55:53.387968,New Zealand,Laptop,Performance,Low,Chat,317,Open,73.42,24,1
+871,27610,2025-09-08 20:55:53.387968,Australia,Laptop,Software Issue,Medium,Phone,116,In Progress,9.76,8,4
+872,48799,2024-10-19 23:55:53.387968,India,Laptop,Setup,Low,Phone,56,Closed,63.18,8,1
+873,24381,2025-09-06 00:55:53.387968,Australia,Printer,Setup,Critical,WhatsApp,413,Resolved,13.98,24,5
+874,44351,2025-03-05 03:55:53.387968,Indonesia,Desktop,Billing,Low,Chat,420,Open,39.73,48,5
+875,10471,2025-08-14 22:55:53.387968,New Zealand,Laptop,Software Issue,High,WhatsApp,28,Closed,23.50,24,5
+876,18070,2025-03-26 16:55:53.387968,New Zealand,Printer,Connectivity,Medium,Web,99,Open,47.45,4,1
+877,35973,2024-09-24 09:55:53.387968,New Zealand,Desktop,Setup,Critical,Web,112,Closed,95.55,8,5
+878,28223,2025-11-11 09:55:53.387968,Australia,Monitor,Software Issue,High,Web,449,In Progress,83.77,24,1
+879,38649,2025-04-26 09:55:53.387968,Malaysia,Accessory,Setup,Medium,Phone,71,Open,76.55,24,3
+880,19499,2024-10-29 16:55:53.387968,Philippines,Monitor,Software Issue,Medium,WhatsApp,226,Open,44.31,24,3
+881,2495,2026-04-09 14:55:53.387968,Philippines,Monitor,Software Issue,Critical,Web,490,Open,74.66,8,1
+882,13770,2026-08-31 23:55:53.387968,Singapore,Accessory,Performance,Low,Email,64,In Progress,92.29,8,1
+883,17423,2026-02-22 23:55:53.387968,Indonesia,Monitor,Billing,Critical,Chat,192,Resolved,30.24,4,3
+884,31202,2025-04-07 13:55:53.387968,India,Monitor,Hardware Issue,High,Email,184,Closed,58.72,48,5
+885,13789,2025-06-10 23:55:53.387968,Australia,Desktop,Hardware Issue,Medium,Phone,325,Resolved,34.93,4,3
+886,43794,2025-12-24 10:55:53.387968,Indonesia,Desktop,Hardware Issue,Low,Web,194,In Progress,91.98,4,3
+887,42158,2026-04-06 15:55:53.387968,Australia,Desktop,Software Issue,Critical,Email,412,Open,77.85,24,1
+888,34976,2026-01-03 19:55:53.387968,New Zealand,Monitor,Performance,High,Phone,265,Resolved,5.34,24,4
+889,26866,2026-01-11 22:55:53.387968,India,Monitor,Billing,Medium,Chat,499,Closed,25.41,24,3
+890,4829,2026-03-21 15:55:53.387968,India,Printer,Software Issue,High,WhatsApp,59,Resolved,63.38,48,4
+891,26406,2025-04-14 09:55:53.387968,New Zealand,Laptop,Setup,Critical,Email,363,Resolved,85.01,48,3
+892,12453,2026-03-26 15:55:53.387968,Philippines,Printer,Software Issue,Critical,Email,144,In Progress,87.44,48,2
+893,5575,2026-09-16 17:55:53.387968,Singapore,Desktop,Hardware Issue,Critical,WhatsApp,111,Closed,82.59,48,1
+894,25379,2025-05-05 06:55:53.387968,Indonesia,Desktop,Billing,Medium,Phone,69,Closed,10.04,24,2
+895,14974,2025-05-28 18:55:53.387968,Indonesia,Printer,Connectivity,Medium,Chat,195,Open,77.40,8,2
+896,23159,2026-06-05 14:55:53.387968,Philippines,Laptop,Software Issue,Low,Email,89,Resolved,90.34,4,1
+897,1522,2025-06-02 02:55:53.387968,New Zealand,Printer,Connectivity,Medium,Chat,53,In Progress,87.96,8,4
+898,22027,2026-03-14 19:55:53.387968,India,Monitor,Software Issue,Critical,WhatsApp,261,Resolved,87.75,48,1
+899,12299,2025-06-10 11:55:53.387968,New Zealand,Printer,Hardware Issue,High,WhatsApp,311,Resolved,91.30,8,5
+900,4061,2025-10-14 21:55:53.387968,Indonesia,Monitor,Performance,Critical,Email,13,Closed,21.33,8,2
+901,42613,2025-01-07 21:55:53.387968,Indonesia,Desktop,Connectivity,High,Phone,410,Closed,4.62,4,2
+902,44360,2025-11-28 08:55:53.387968,Malaysia,Accessory,Performance,Medium,WhatsApp,89,Resolved,87.48,24,2
+903,36755,2026-07-29 19:55:53.387968,India,Printer,Billing,Medium,Phone,43,In Progress,27.29,8,1
+904,2474,2026-07-20 17:55:53.387968,Indonesia,Accessory,Connectivity,Critical,WhatsApp,287,Open,60.05,48,3
+905,39101,2025-01-03 08:55:53.387968,Indonesia,Monitor,Software Issue,Critical,Phone,136,Open,67.27,24,2
+906,29782,2024-11-17 15:55:53.387968,Singapore,Monitor,Connectivity,High,Email,377,Closed,41.25,24,4
+907,6156,2025-01-05 21:55:53.387968,Singapore,Laptop,Hardware Issue,High,WhatsApp,427,Closed,21.05,4,4
+908,25838,2025-02-25 12:55:53.387968,India,Desktop,Billing,Critical,Email,41,Resolved,37.98,48,4
+909,43769,2026-07-09 17:55:53.387968,Philippines,Accessory,Performance,High,WhatsApp,436,Open,32.52,48,2
+910,8985,2026-02-19 18:55:53.387968,New Zealand,Monitor,Hardware Issue,Medium,Web,391,Open,86.90,24,3
+911,41363,2026-05-10 08:55:53.387968,Indonesia,Accessory,Hardware Issue,Critical,Phone,37,Closed,54.72,4,3
+912,29630,2025-09-15 14:55:53.387968,India,Desktop,Setup,Critical,WhatsApp,109,In Progress,24.45,8,2
+913,17821,2025-07-15 01:55:53.387968,Indonesia,Printer,Hardware Issue,Medium,Chat,42,Resolved,88.38,8,3
+914,23992,2025-07-17 22:55:53.387968,India,Monitor,Hardware Issue,Critical,Phone,472,Closed,32.96,8,5
+915,40412,2025-04-22 08:55:53.387968,India,Laptop,Software Issue,Critical,Web,464,Resolved,56.03,8,3
+916,8201,2025-09-08 19:55:53.387968,India,Monitor,Setup,High,Email,330,Open,51.07,48,3
+917,18639,2025-06-17 08:55:53.387968,Malaysia,Laptop,Software Issue,High,Web,128,Resolved,42.10,8,2
+918,2089,2026-04-29 06:55:53.387968,New Zealand,Monitor,Hardware Issue,Critical,Web,230,Closed,33.47,4,2
+919,4488,2026-07-08 19:55:53.387968,Australia,Laptop,Performance,High,Web,64,Closed,31.49,8,2
+920,23551,2026-03-06 05:55:53.387968,Australia,Accessory,Setup,High,Email,266,In Progress,45.26,4,2
+921,11092,2025-04-19 01:55:53.387968,India,Printer,Performance,Medium,Email,394,Closed,32.06,4,1
+922,4069,2026-08-14 15:55:53.387968,Malaysia,Desktop,Software Issue,Medium,Email,39,Resolved,77.06,24,2
+923,36738,2025-02-14 04:55:53.387968,Philippines,Laptop,Performance,High,Web,346,In Progress,75.95,4,5
+924,34631,2026-05-18 02:55:53.387968,Singapore,Printer,Connectivity,Critical,WhatsApp,323,Resolved,38.82,48,5
+925,19579,2025-04-29 00:55:53.387968,Singapore,Printer,Connectivity,Medium,Chat,440,Open,90.07,48,3
+926,45656,2024-10-17 00:55:53.387968,Indonesia,Accessory,Billing,Medium,WhatsApp,365,In Progress,73.62,8,4
+927,35445,2025-11-06 09:55:53.387968,Philippines,Monitor,Setup,Critical,Email,357,Open,20.85,48,5
+928,49218,2024-09-19 18:55:53.387968,India,Monitor,Setup,Low,Phone,305,Resolved,72.04,24,2
+929,35899,2025-02-04 06:55:53.387968,Philippines,Accessory,Performance,Medium,Web,157,Open,56.53,48,3
+930,30524,2025-04-08 15:55:53.387968,Malaysia,Desktop,Connectivity,Low,WhatsApp,453,Resolved,1.35,8,4
+931,37008,2025-07-27 02:55:53.387968,Indonesia,Monitor,Software Issue,Critical,Email,22,Closed,63.32,8,3
+932,18499,2026-02-15 17:55:53.387968,Australia,Printer,Billing,High,Phone,345,Resolved,27.18,4,2
+933,48774,2025-09-21 07:55:53.387968,Philippines,Laptop,Hardware Issue,High,Chat,372,In Progress,15.18,48,1
+934,15417,2025-09-25 10:55:53.387968,New Zealand,Printer,Software Issue,High,Web,98,Closed,37.31,8,2
+935,31028,2026-02-14 08:55:53.387968,India,Laptop,Performance,High,Web,485,In Progress,89.01,8,4
+936,25865,2025-06-08 23:55:53.387968,India,Desktop,Software Issue,Low,Web,237,Resolved,27.68,48,4
+937,23852,2024-10-27 09:55:53.387968,India,Laptop,Connectivity,Low,Phone,355,Open,57.09,24,1
+938,18656,2025-02-23 04:55:53.387968,Malaysia,Monitor,Setup,Critical,Phone,313,Closed,19.33,4,1
+939,30125,2026-06-05 21:55:53.387968,India,Monitor,Connectivity,High,Email,197,Open,46.19,24,2
+940,9972,2025-07-11 12:55:53.387968,Philippines,Monitor,Software Issue,Critical,WhatsApp,317,Open,52.50,4,4
+941,39780,2025-07-04 11:55:53.387968,Singapore,Monitor,Billing,High,Chat,425,Resolved,87.35,4,3
+942,43484,2026-05-21 17:55:53.387968,India,Monitor,Connectivity,High,Chat,466,In Progress,52.03,48,2
+943,43440,2026-03-15 23:55:53.387968,New Zealand,Monitor,Connectivity,Critical,Phone,95,In Progress,88.59,24,2
+944,44175,2025-10-09 08:55:53.387968,Malaysia,Desktop,Billing,Medium,Chat,428,Open,57.65,4,2
+945,42505,2025-09-12 02:55:53.387968,New Zealand,Laptop,Hardware Issue,Medium,WhatsApp,429,In Progress,49.98,8,3
+946,36640,2026-05-26 08:55:53.387968,Singapore,Laptop,Performance,Low,Email,491,Closed,57.49,48,2
+947,16656,2025-09-06 23:55:53.387968,Philippines,Desktop,Performance,Medium,Email,161,Resolved,26.86,48,5
+948,42884,2025-04-17 03:55:53.387968,Philippines,Accessory,Performance,Critical,WhatsApp,169,Closed,94.57,8,2
+949,41265,2024-11-30 14:55:53.387968,Singapore,Accessory,Software Issue,Medium,Web,478,Closed,29.45,24,2
+950,888,2025-03-02 04:55:53.387968,Malaysia,Printer,Billing,Medium,Chat,299,Open,41.44,8,3
+951,20772,2024-10-04 06:55:53.387968,Indonesia,Desktop,Billing,Critical,Email,325,Resolved,11.02,24,1
+952,49748,2025-08-28 22:55:53.387968,India,Printer,Software Issue,Low,Email,500,Open,91.16,48,5
+953,5122,2026-08-04 23:55:53.387968,Australia,Desktop,Setup,Critical,Phone,286,Open,63.96,48,4
+954,25215,2025-09-29 05:55:53.387968,Australia,Monitor,Billing,High,Phone,431,Resolved,47.34,48,4
+955,13741,2025-08-23 06:55:53.387968,Australia,Printer,Software Issue,Critical,Chat,311,Resolved,9.73,24,4
+956,4462,2025-05-23 16:55:53.387968,Singapore,Printer,Connectivity,High,Chat,202,Resolved,57.44,48,1
+957,20603,2026-04-15 09:55:53.387968,India,Accessory,Software Issue,High,Chat,438,Closed,38.96,48,2
+958,32242,2025-06-03 23:55:53.387968,New Zealand,Monitor,Connectivity,Medium,Email,328,Open,66.02,8,5
+959,29669,2025-07-31 08:55:53.387968,Malaysia,Printer,Connectivity,Medium,Web,428,Resolved,15.59,4,3
+960,11337,2026-03-29 19:55:53.387968,India,Accessory,Performance,Medium,Phone,156,In Progress,34.34,8,5
+961,42993,2025-06-19 08:55:53.387968,Singapore,Monitor,Performance,Critical,Email,30,Closed,1.33,24,5
+962,48917,2026-07-11 04:55:53.387968,Singapore,Desktop,Setup,High,Email,258,Open,75.82,4,5
+963,25164,2026-01-24 11:55:53.387968,Australia,Monitor,Setup,High,WhatsApp,78,Closed,62.33,4,1
+964,38091,2025-03-14 23:55:53.387968,Australia,Monitor,Performance,High,Phone,164,In Progress,47.17,8,2
+965,13616,2026-08-24 09:55:53.387968,India,Desktop,Software Issue,Medium,Phone,437,Resolved,50.10,48,2
+966,34391,2025-08-12 03:55:53.387968,Indonesia,Monitor,Billing,Low,Chat,72,Closed,3.47,24,4
+967,39751,2025-04-10 11:55:53.387968,Indonesia,Monitor,Billing,Critical,WhatsApp,447,Open,95.86,48,3
+968,24959,2026-03-13 14:55:53.387968,Philippines,Laptop,Performance,Medium,Email,115,Closed,81.12,48,2
+969,46576,2025-04-29 10:55:53.387968,Indonesia,Laptop,Billing,Medium,Phone,389,In Progress,70.75,48,4
+970,45119,2025-07-30 06:55:53.387968,India,Printer,Billing,Critical,Email,235,Resolved,68.73,24,1
+971,41846,2026-06-26 17:55:53.387968,Philippines,Laptop,Setup,Medium,Email,489,Open,88.58,8,3
+972,49151,2024-11-05 17:55:53.387968,Philippines,Monitor,Performance,Critical,Chat,463,Open,9.43,4,3
+973,29459,2026-07-21 10:55:53.387968,New Zealand,Monitor,Hardware Issue,Low,Chat,283,In Progress,28.23,8,2
+974,36986,2024-10-02 18:55:53.387968,Philippines,Laptop,Performance,Critical,Web,230,In Progress,85.27,48,2
+975,45139,2026-01-28 01:55:53.387968,Singapore,Printer,Billing,Medium,Chat,360,Closed,78.81,48,1
+976,45125,2025-01-15 05:55:53.387968,Philippines,Accessory,Connectivity,High,WhatsApp,134,Open,26.26,8,4
+977,16034,2025-05-06 06:55:53.387968,Australia,Accessory,Billing,High,Phone,92,Open,74.36,48,1
+978,46110,2025-06-19 22:55:53.387968,Malaysia,Printer,Software Issue,Low,Web,330,Resolved,83.44,24,4
+979,45531,2025-04-17 15:55:53.387968,Malaysia,Printer,Hardware Issue,Medium,Web,376,Closed,32.55,24,4
+980,2945,2025-05-22 01:55:53.387968,Australia,Accessory,Software Issue,High,Chat,51,Resolved,6.15,4,2
+981,982,2026-02-15 01:55:53.387968,New Zealand,Laptop,Connectivity,Medium,Phone,87,Closed,36.76,8,5
+982,5220,2025-02-20 00:55:53.387968,Malaysia,Desktop,Connectivity,Low,Web,185,Closed,69.81,24,3
+983,7849,2025-05-01 08:55:53.387968,Philippines,Desktop,Billing,Critical,Email,223,In Progress,8.63,8,2
+984,45808,2025-04-08 11:55:53.387968,Singapore,Laptop,Hardware Issue,High,Web,205,Closed,25.40,24,1
+985,27631,2025-03-21 12:55:53.387968,Singapore,Accessory,Billing,High,Chat,366,Closed,47.79,4,4
+986,39296,2024-11-23 02:55:53.387968,India,Laptop,Billing,Critical,Email,448,Closed,37.08,24,2
+987,10438,2026-08-29 03:55:53.387968,Malaysia,Accessory,Connectivity,High,WhatsApp,472,Resolved,22.83,48,4
+988,16991,2024-10-03 03:55:53.387968,India,Laptop,Billing,High,Phone,104,Resolved,13.52,24,2
+989,24206,2025-11-09 08:55:53.387968,Australia,Accessory,Billing,Medium,WhatsApp,416,Open,43.82,48,4
+990,32938,2026-09-06 03:55:53.387968,Australia,Accessory,Hardware Issue,Critical,Email,404,In Progress,95.73,48,2
+991,11697,2025-11-07 13:55:53.387968,Malaysia,Monitor,Setup,Low,Phone,27,Resolved,9.36,24,2
+992,33852,2025-07-12 17:55:53.387968,Australia,Monitor,Billing,Critical,Phone,299,Closed,5.61,8,1
+993,28589,2025-11-17 04:55:53.387968,Australia,Printer,Software Issue,Critical,Phone,257,Open,15.83,4,1
+994,31303,2026-08-31 07:55:53.387968,India,Printer,Hardware Issue,Low,Email,68,Resolved,13.94,4,2
+995,26690,2024-12-16 09:55:53.387968,India,Monitor,Performance,Medium,Web,97,Resolved,34.43,8,1
+996,12861,2026-04-04 08:55:53.387968,India,Printer,Connectivity,Critical,Email,125,Open,12.84,4,2
+997,24648,2025-07-01 08:55:53.387968,New Zealand,Desktop,Software Issue,Medium,Chat,500,Closed,82.59,24,3
+998,45826,2025-12-13 11:55:53.387968,Singapore,Laptop,Connectivity,Critical,Web,490,Closed,60.03,4,5
+999,15877,2025-09-14 10:55:53.387968,Indonesia,Laptop,Setup,High,Web,192,In Progress,22.34,8,4
+1000,20067,2026-05-24 00:55:53.387968,India,Printer,Billing,High,WhatsApp,325,Closed,52.76,24,3
