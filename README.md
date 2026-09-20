@@ -8,6 +8,14 @@ The project uses approximately 1.85 million synthetic business records across cu
 
 The objective of the project was to simulate a real-world analytics workflow by transforming raw data into clean, business-ready datasets and using them to analyze Sales and Customer Support performance.
 
+## Project Files
+
+- [Power BI Dashboard](Sales_Customer_Support_Analytics.pbix)
+- [Raw Data Layer SQL](01_raw_layer.sql)
+- [Staging & Data Cleaning SQL](02_staging_layer.sql)
+- [Analytics Layer SQL](03_analytics_layer.sql)
+- [Business Analysis & KPI SQL](04_business_analysis.sql)
+
 ## Data Pipeline
 
 The project follows the following data flow:
