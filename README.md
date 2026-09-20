@@ -11,10 +11,11 @@ The objective of the project was to simulate a real-world analytics workflow by 
 ## Project Files
 
 - [Power BI Dashboard](Sales_Customer_Support_Analytics.pbix)
-- [Raw Data Layer SQL](01_raw_layer.sql)
-- [Staging & Data Cleaning SQL](02_staging_layer.sql)
-- [Analytics Layer SQL](03_analytics_layer.sql)
-- [Business Analysis & KPI SQL](04_business_analysis.sql)
+- [Raw Data Layer](01_raw_layer.sql)
+- [Synthetic Data Generation](02_generate_synthetic_data.sql)
+- [Staging & Data Cleaning](03_staging_layer.sql)
+- [Analytics Layer](04_analytics_layer.sql)
+- [Business Analysis & KPI Queries](05_business_analysis.sql)
 
 ## Data Pipeline
 
