@@ -121,6 +121,23 @@ Provides insights into ticket volume, SLA performance, resolution time, customer
 - Data Visualization
 - Dashboard Development
 
-## Dataset Note
+## Key Business Insights
 
-The dataset used in this project is synthetically generated for learning and portfolio purposes. It does not contain real customer or company data.
+### Sales Performance
+- The dataset generated approximately 2.77B in total revenue across approximately 432K distinct orders.
+- Average Order Value was approximately 6.40K, with around 3M units sold.
+- Accessories generated the highest revenue among the analyzed product categories.
+- Revenue contribution was relatively balanced across customer segments and countries.
+- Monthly revenue trends were analyzed to identify changes in sales performance over time.
+
+### Customer Support Performance
+- Approximately 300K customer support tickets were analyzed.
+- Overall SLA performance was approximately 21.1%, indicating that a large proportion of tickets exceeded their assigned SLA target in the synthetic dataset.
+- Average resolution time was approximately 48.4 hours.
+- Average customer satisfaction was approximately 3.0 out of 5.
+- SLA attainment was relatively similar across countries and priority levels.
+- Average CSAT was also similar between SLA-met and SLA-missed tickets, suggesting no strong relationship between SLA attainment and CSAT in this synthetic dataset.
+
+> **Note:** 
+
+These insights are based on synthetically generated data and demonstrate the analytical process rather than actual company performance.
