@@ -146,7 +146,7 @@ These insights are based on synthetically generated data and demonstrate the ana
 ## Power BI Dashboard Preview
 
 ### Sales Performance Dashboard
-![Sales Performance Dashboard](sales-dashboard.png)
+![Sales Performance Dashboard](sales-dashboard.png.png)
 
 ### Customer Support & SLA Dashboard
-![Customer Support SLA Dashboard](support-sla-dashboard.png)
+![Customer Support SLA Dashboard](support-sla-dashboard.png.png)
